@@ -41,7 +41,7 @@ app.config['MAX_FORM_PARTS'] = 50000  # Permite até 50.000 partes/arquivos no m
 # CORS mais específico para desenvolvimento
 CORS(app, 
      supports_credentials=True, 
-     origins=['http://localhost:5173', 'http://127.0.0.1:5173'],
+     origins='*',
      allow_headers=['Content-Type', 'Authorization'],
      methods=['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'])
 
