@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>2006.kml</name>
+  <StyleMap id="FFFF4000">
+    <Pair>
+      <key>normal</key>
+      <styleUrl>#s_FFFF4000</styleUrl>
+    </Pair>
+    <Pair>
+      <key>highlight</key>
+      <styleUrl>#s_FFFF4000_hl</styleUrl>
+    </Pair>
+  </StyleMap>
+  <Style id="s_FFFF4000">
+   <IconStyle>
+      <scale>1.1</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/pushpin/agrocad.png</href>
+      </Icon>
+      <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+    </IconStyle>
+    <LineStyle>
+      <color>FFFF4000</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>40ffffff</color>
+      <fill>1</fill>
+    </PolyStyle>
+  </Style>
+  <Style id="s_FFFF4000_hl">
+    <IconStyle>
+      <scale>1.3</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/pushpin/agrocad.png</href>
+      </Icon>
+      <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+    </IconStyle>
+    <LineStyle>
+      <color>ff000000</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>40ffffff</color>
+      <fill>1</fill>
+    </PolyStyle>
+  </Style>
+  <Placemark>
+    <name>AgroCAD: 9509</name>
+    <styleUrl>FFFF4000</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+           -36.18634098153218,-9.77870410068267 -36.18669987218665,-9.77905546296851 -36.18803433652521,-9.78015415836565 -36.18553928290651,-9.78235540089339 -36.18508022960291,-9.78167989698368 -36.18482991205389,-9.78133164525561 -36.18447898787226,-9.78077960093645 -36.18438890143309,-9.78061172314193 -36.18434015679883,-9.78046931215437 -36.18634098153218,-9.77870410068267
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+</Document>
+</kml>

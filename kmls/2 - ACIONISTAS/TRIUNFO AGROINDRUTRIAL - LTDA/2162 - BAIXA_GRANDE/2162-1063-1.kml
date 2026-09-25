@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="BAIXA_GRANDE_TALHAO_1063_ID_278" id="BAIXA_GRANDE_TALHAO_1063_ID_278">
+	<SimpleField name="CODE" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+</Schema>
+<Folder><name>BAIXA_GRANDE_TALHAO_1063_ID_278</name>
+  <Placemark id="BAIXA_GRANDE_TALHAO_1063_ID_278.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BAIXA_GRANDE_TALHAO_1063_ID_278">
+		<SimpleData name="CODE">279</SimpleData>
+		<SimpleData name="TALHAO">1063</SimpleData>
+		<SimpleData name="AREA_TOTAL">9.178</SimpleData>
+		<SimpleData name="FAZENDA">2162</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="FAZ_NOME">BAIXA GRANDE</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.1887926390219,-9.69363686584401 -36.1886615594769,-9.69355926402824 -36.1885054535602,-9.69346525000138 -36.1883214108767,-9.6933669239709 -36.1881980990741,-9.69327792597846 -36.1881145373879,-9.69320600050629 -36.1880331209428,-9.69311430087483 -36.1879718718526,-9.69299747173027 -36.187879247289,-9.69282775920851 -36.1878279964316,-9.69270393211493 -36.1877654598781,-9.69256737059246 -36.1876634369199,-9.6924302815086 -36.1874394461568,-9.69253431842357 -36.1873464075314,-9.69257805161311 -36.1872201305023,-9.69259941616668 -36.1870649489428,-9.69261998061713 -36.1868903232157,-9.6926407029782 -36.1866365760109,-9.6926776710166 -36.1865472576448,-9.69268589436354 -36.1848871747079,-9.69454822887688 -36.1865259405491,-9.6961795989613 -36.1887926390219,-9.69363686584401</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

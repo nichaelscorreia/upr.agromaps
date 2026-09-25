@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="GITIRANA_TALHAO_1023_ID_20" id="GITIRANA_TALHAO_1023_ID_20">
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="ACIONISTA" type="string"></SimpleField>
+	<SimpleField name="CODE" type="string"></SimpleField>
+</Schema>
+<Folder><name>GITIRANA_TALHAO_1023_ID_20</name>
+  <Placemark id="GITIRANA_TALHAO_1023_ID_20.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#GITIRANA_TALHAO_1023_ID_20">
+		<SimpleData name="ID">20</SimpleData>
+		<SimpleData name="AREA_TOTAL">6.09</SimpleData>
+		<SimpleData name="FAZENDA">1</SimpleData>
+		<SimpleData name="FAZ_NOME">GITIRANA</SimpleData>
+		<SimpleData name="TALHAO">1023</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="ACIONISTA">HENRIQUE TENÓRIO</SimpleData>
+		<SimpleData name="CODE"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.1916369096759,-9.83580496035887,0 -36.1909600771613,-9.83767519948089,0 -36.1934026187447,-9.83844481508668,0 -36.1934568907123,-9.83827983673142,0 -36.1936480189204,-9.83771493293173,0 -36.1937464641374,-9.83741996803366,0 -36.1937896433574,-9.83729597379416,0 -36.1938975205804,-9.8369769653659,0 -36.1939311228,-9.83687339446577,0 -36.1940141981789,-9.83663172307493,0 -36.1940197635628,-9.83658500702075,0 -36.1916369096759,-9.83580496035887,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

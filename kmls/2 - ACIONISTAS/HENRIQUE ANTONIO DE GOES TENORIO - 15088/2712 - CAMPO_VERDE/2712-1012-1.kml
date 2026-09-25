@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="CAMPO_VERDE_TALHAO_1012_ID_132" id="CAMPO_VERDE_TALHAO_1012_ID_132">
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="ACIONISTA" type="string"></SimpleField>
+	<SimpleField name="CODE" type="string"></SimpleField>
+</Schema>
+<Folder><name>CAMPO_VERDE_TALHAO_1012_ID_132</name>
+  <Placemark id="CAMPO_VERDE_TALHAO_1012_ID_132.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CAMPO_VERDE_TALHAO_1012_ID_132">
+		<SimpleData name="ID">132</SimpleData>
+		<SimpleData name="AREA_TOTAL">3.60</SimpleData>
+		<SimpleData name="FAZENDA">2712</SimpleData>
+		<SimpleData name="FAZ_NOME">CAMPO VERDE</SimpleData>
+		<SimpleData name="TALHAO">1012</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="ACIONISTA">HENRIQUE TENÓRIO</SimpleData>
+		<SimpleData name="CODE"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.3535629107954,-9.72189897910752,0 -36.3528533874067,-9.71839733062844,0 -36.3528438634978,-9.71839230274361,0 -36.3528259479199,-9.718421429944,0 -36.3528097161248,-9.71845369025308,0 -36.3527943616819,-9.71848509420772,0 -36.3527812929612,-9.71851384332565,0 -36.3526847065744,-9.71870980846318,0 -36.3524917952775,-9.71914241969326,0 -36.3524679559673,-9.71920030656976,0 -36.3523939668095,-9.71935601274942,0 -36.3523473020692,-9.71945344239472,0 -36.352328421044,-9.71949083018902,0 -36.3523092454447,-9.71952992903401,0 -36.3522041058724,-9.71997245432898,0 -36.3521747338738,-9.72017129152189,0 -36.3521593751204,-9.72026214589084,0 -36.3521524669235,-9.72040149119951,0 -36.3521474542356,-9.72053968803182,0 -36.3521756525011,-9.72072194748667,0 -36.3522167752128,-9.72089712251847,0 -36.3522190819691,-9.72090694886505,0 -36.3523025520766,-9.72120831558654,0 -36.3524570567807,-9.72171296777076,0 -36.3525362241583,-9.72192993258454,0 -36.3535629107954,-9.72189897910752,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

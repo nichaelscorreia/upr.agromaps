@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="SÍTIO_IMBIRA_TALHAO_1006_ID_3" id="SÍTIO_IMBIRA_TALHAO_1006_ID_3">
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="ACIONISTA" type="string"></SimpleField>
+	<SimpleField name="CODE" type="string"></SimpleField>
+</Schema>
+<Folder><name>SÍTIO_IMBIRA_TALHAO_1006_ID_3</name>
+  <Placemark id="SÍTIO_IMBIRA_TALHAO_1006_ID_3.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SÍTIO_IMBIRA_TALHAO_1006_ID_3">
+		<SimpleData name="ID">3</SimpleData>
+		<SimpleData name="AREA_TOTAL">3.33</SimpleData>
+		<SimpleData name="FAZ_NOME">SÍTIO IMBIRA</SimpleData>
+		<SimpleData name="TALHAO">1006</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="ACIONISTA">ISABEL TENÓRIO</SimpleData>
+		<SimpleData name="CODE"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.2702713165786,-9.8070688235241,0 -36.2698831762976,-9.80729256421414,0 -36.2698702735268,-9.80731640737708,0 -36.2724046590495,-9.81222329631398,0 -36.2724469403836,-9.8122198556627,0 -36.2724973724304,-9.81219095801227,0 -36.2728541049785,-9.81196255121557,0 -36.2702713165786,-9.8070688235241,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

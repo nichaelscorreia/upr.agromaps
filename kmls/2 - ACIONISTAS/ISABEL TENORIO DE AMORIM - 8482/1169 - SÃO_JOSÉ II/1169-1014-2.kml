@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="SÃO_JOSÉ_TALHAO_1014_ID_232" id="SÃO_JOSÉ_TALHAO_1014_ID_232">
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="ACIONISTA" type="string"></SimpleField>
+	<SimpleField name="CODE" type="string"></SimpleField>
+</Schema>
+<Folder><name>SÃO_JOSÉ_TALHAO_1014_ID_232</name>
+  <Placemark id="SÃO_JOSÉ_TALHAO_1014_ID_232.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SÃO_JOSÉ_TALHAO_1014_ID_232">
+		<SimpleData name="ID">232</SimpleData>
+		<SimpleData name="AREA_TOTAL">3.20</SimpleData>
+		<SimpleData name="FAZ_NOME">SÃO JOSÉ</SimpleData>
+		<SimpleData name="TALHAO">1014</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="ACIONISTA">ISABEL TENÓRIO</SimpleData>
+		<SimpleData name="CODE"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.2573522172671,-9.81417625327335,0 -36.2576003106004,-9.81498892188444,0 -36.2576932797671,-9.81534820410663,0 -36.2582459856003,-9.81503868882888,0 -36.2587199138545,-9.81475864057874,0 -36.2586891775447,-9.81469709105117,0 -36.258560189767,-9.8143961193845,0 -36.2583453869892,-9.81388059244003,0 -36.2582165700448,-9.81351561077342,0 -36.258066469767,-9.81312963882898,0 -36.2579164675448,-9.81274391799563,0 -36.2577878781004,-9.81246530744004,0 -36.2577521014337,-9.8123835046623,0 -36.2570946819893,-9.8126899604956,0 -36.2570946256004,-9.81269605910668,0 -36.2571323197671,-9.81339766799555,0 -36.2572473517115,-9.81380719827333,0 -36.2573522172671,-9.81417625327335,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

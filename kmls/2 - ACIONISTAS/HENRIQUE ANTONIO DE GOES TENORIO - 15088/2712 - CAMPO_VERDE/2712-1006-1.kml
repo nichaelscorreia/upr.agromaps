@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="CAMPO_VERDE_TALHAO_1006_ID_130" id="CAMPO_VERDE_TALHAO_1006_ID_130">
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="ACIONISTA" type="string"></SimpleField>
+	<SimpleField name="CODE" type="string"></SimpleField>
+</Schema>
+<Folder><name>CAMPO_VERDE_TALHAO_1006_ID_130</name>
+  <Placemark id="CAMPO_VERDE_TALHAO_1006_ID_130.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CAMPO_VERDE_TALHAO_1006_ID_130">
+		<SimpleData name="ID">130</SimpleData>
+		<SimpleData name="AREA_TOTAL">14.52</SimpleData>
+		<SimpleData name="FAZENDA">2712</SimpleData>
+		<SimpleData name="FAZ_NOME">CAMPO VERDE</SimpleData>
+		<SimpleData name="TALHAO">1006</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="ACIONISTA">HENRIQUE TENÓRIO</SimpleData>
+		<SimpleData name="CODE"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.3576929620084,-9.72751929314889,0 -36.3529518134652,-9.72766303896907,0 -36.3526714721302,-9.72817033359217,0 -36.3523672629219,-9.72870516855881,0 -36.3519329793549,-9.72946204358606,0 -36.3517644434036,-9.72984723459373,0 -36.3517541504652,-9.72992082829204,0 -36.3525614205598,-9.72989530243192,0 -36.3541890610185,-9.7298901775659,0 -36.3553838179613,-9.72986587607967,0 -36.3574639411364,-9.72981797081052,0 -36.3574990996955,-9.72981669433983,0 -36.35759496526,-9.7286311336675,0 -36.3576929620084,-9.72751929314889,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="RIACHÃO_TALHAO_1022_ID_159" id="RIACHÃO_TALHAO_1022_ID_159">
+	<SimpleField name="CODE" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+</Schema>
+<Folder><name>RIACHÃO_TALHAO_1022_ID_159</name>
+  <Placemark id="RIACHÃO_TALHAO_1022_ID_159.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#RIACHÃO_TALHAO_1022_ID_159">
+		<SimpleData name="CODE">160</SimpleData>
+		<SimpleData name="TALHAO">1022</SimpleData>
+		<SimpleData name="AREA_TOTAL">10.510</SimpleData>
+		<SimpleData name="FAZENDA">2183</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="FAZ_NOME">RIACHÃO</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.1249403564219,-9.69422148716293 -36.1250793096879,-9.6942263380185 -36.1268906361258,-9.69397066186184 -36.1283907468042,-9.6937436092261 -36.1284364414964,-9.69359902981012 -36.1285587176857,-9.69288718050145 -36.1287585630104,-9.69200916693862 -36.128822309701,-9.69190337690323 -36.1289283791486,-9.6918150768022 -36.1290997155824,-9.69176551761413 -36.1291516306717,-9.69172283405392 -36.1291659430274,-9.69167209685927 -36.1291162888398,-9.69143908158918 -36.1287930968361,-9.69149068292642 -36.127483651663,-9.69169577205526 -36.1261461829872,-9.6918728239983 -36.1252597363312,-9.69203035661307 -36.1246726705438,-9.69211298346191 -36.1246903326352,-9.69232827371788 -36.1247855383998,-9.69304070834389 -36.1249403564219,-9.69422148716293</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

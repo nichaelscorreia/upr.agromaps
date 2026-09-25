@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>04.kml</name>
+  <StyleMap id="FFFF0000">
+    <Pair>
+      <key>normal</key>
+      <styleUrl>#s_FFFF0000</styleUrl>
+    </Pair>
+    <Pair>
+      <key>highlight</key>
+      <styleUrl>#s_FFFF0000_hl</styleUrl>
+    </Pair>
+  </StyleMap>
+  <Style id="s_FFFF0000">
+   <IconStyle>
+      <scale>1.1</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/pushpin/agrocad.png</href>
+      </Icon>
+      <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+    </IconStyle>
+    <LineStyle>
+      <color>FFFF0000</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>40ffffff</color>
+      <fill>1</fill>
+    </PolyStyle>
+  </Style>
+  <Style id="s_FFFF0000_hl">
+    <IconStyle>
+      <scale>1.3</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/pushpin/agrocad.png</href>
+      </Icon>
+      <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+    </IconStyle>
+    <LineStyle>
+      <color>ff000000</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>40ffffff</color>
+      <fill>1</fill>
+    </PolyStyle>
+  </Style>
+  <Placemark>
+    <name>AgroCAD: B570</name>
+    <styleUrl>FFFF0000</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+           -36.19302172303947,-9.74719756200942 -36.19300989803277,-9.74718294602449 -36.19314554547216,-9.74703472874192 -36.19390354201507,-9.74625637136226 -36.19415777316907,-9.74600009171002 -36.19424699958196,-9.74590245498306 -36.19441422474584,-9.74576397832949 -36.19468127913142,-9.74554572981380 -36.19487725468710,-9.74539800784595 -36.19495160997078,-9.74536424897893 -36.19503784803669,-9.74548110757001 -36.19530475666255,-9.74585189903365 -36.19558052369373,-9.74616350356077 -36.19613762637015,-9.74683535117098 -36.19688080626199,-9.74768650817855 -36.19735042021244,-9.74824859750724 -36.19765116986312,-9.74857344397323 -36.19786071348620,-9.74880390987823 -36.19815873816067,-9.74916903046327 -36.19864824962772,-9.74978106100674 -36.19888993192709,-9.75013327365086 -36.19897300508558,-9.75027173577481 -36.19892236138510,-9.75032732010238 -36.19746867036252,-9.75154026850021 -36.19707674544605,-9.75186741806849 -36.19626724699533,-9.75094519417878 -36.19385133608128,-9.74817684378620 -36.19302172303947,-9.74719756200942 -36.19302172303947,-9.74719756200942
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+</Document>
+</kml>

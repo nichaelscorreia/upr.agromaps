@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="CHÃ_DOS_LEÕES_TALHAO_1080_ID_179" id="CHÃ_DOS_LEÕES_TALHAO_1080_ID_179">
+	<SimpleField name="CODE" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+</Schema>
+<Folder><name>CHÃ_DOS_LEÕES_TALHAO_1080_ID_179</name>
+  <Placemark id="CHÃ_DOS_LEÕES_TALHAO_1080_ID_179.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CHÃ_DOS_LEÕES_TALHAO_1080_ID_179">
+		<SimpleData name="CODE">180</SimpleData>
+		<SimpleData name="TALHAO">1080</SimpleData>
+		<SimpleData name="AREA_TOTAL">15.024</SimpleData>
+		<SimpleData name="FAZENDA">2077</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="FAZ_NOME">CHÃ DOS LEÕES</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.1006587648285,-9.68165763288907 -36.1024455551455,-9.68320011932434 -36.1025297135175,-9.68321939323853 -36.1030863808178,-9.68343863510302 -36.1034569016309,-9.68354782786566 -36.1038394034842,-9.68356413998817 -36.1044562649929,-9.68353830682284 -36.1050329517097,-9.68349457449656 -36.1052975854024,-9.68343729348251 -36.1054306125555,-9.68341619243243 -36.1054864298017,-9.68336922968704 -36.1054834664495,-9.68322739090458 -36.10568002352,-9.68260974409241 -36.1058701359968,-9.68203296503721 -36.1062364466521,-9.68117196513812 -36.1062844772038,-9.68101235784182 -36.1062883662566,-9.68098697603999 -36.102313762365,-9.68038740136976 -36.1006587648285,-9.68165763288907</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

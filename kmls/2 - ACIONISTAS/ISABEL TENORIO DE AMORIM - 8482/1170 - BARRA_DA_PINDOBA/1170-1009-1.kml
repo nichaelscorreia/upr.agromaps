@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="BARRA_DA_PINDOBA_TALHAO_1009_ID_216" id="BARRA_DA_PINDOBA_TALHAO_1009_ID_216">
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="ACIONISTA" type="string"></SimpleField>
+	<SimpleField name="CODE" type="string"></SimpleField>
+</Schema>
+<Folder><name>BARRA_DA_PINDOBA_TALHAO_1009_ID_216</name>
+  <Placemark id="BARRA_DA_PINDOBA_TALHAO_1009_ID_216.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRA_DA_PINDOBA_TALHAO_1009_ID_216">
+		<SimpleData name="ID">216</SimpleData>
+		<SimpleData name="AREA_TOTAL">1.29</SimpleData>
+		<SimpleData name="FAZ_NOME">BARRA DA PINDOBA</SimpleData>
+		<SimpleData name="TALHAO">1009</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="ACIONISTA">ISABEL TENÓRIO</SimpleData>
+		<SimpleData name="CODE"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.2544404228229,-9.81322316216206,0 -36.2539039828229,-9.8137166866065,0 -36.2536679494896,-9.81388834688427,0 -36.253324627823,-9.81416729549534,0 -36.2531100517119,-9.81433895632861,0 -36.2530671367119,-9.81438187132864,0 -36.2531030181008,-9.81441731605085,0 -36.2544198280862,-9.81387349310108,0 -36.2544195928927,-9.81387259650633,0 -36.2544584801197,-9.81385753027091,0 -36.2553013072673,-9.81350945105101,0 -36.2551038664339,-9.81264679410659,0 -36.2550626931006,-9.81268672243991,0 -36.2548695747673,-9.81287984077323,0 -36.2544404228229,-9.81322316216206,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

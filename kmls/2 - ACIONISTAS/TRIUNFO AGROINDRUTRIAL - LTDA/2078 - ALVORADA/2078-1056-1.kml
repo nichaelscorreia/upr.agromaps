@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ALVORADA_TALHAO_1056_ID_354" id="ALVORADA_TALHAO_1056_ID_354">
+	<SimpleField name="CODE" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+</Schema>
+<Folder><name>ALVORADA_TALHAO_1056_ID_354</name>
+  <Placemark id="ALVORADA_TALHAO_1056_ID_354.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#ALVORADA_TALHAO_1056_ID_354">
+		<SimpleData name="CODE">355</SimpleData>
+		<SimpleData name="TALHAO">1056</SimpleData>
+		<SimpleData name="AREA_TOTAL">7.286</SimpleData>
+		<SimpleData name="FAZENDA">2078</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="FAZ_NOME">ALVORADA</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.1482183521894,-9.7103973452986 -36.1438451500895,-9.71353587758392 -36.1470371094058,-9.71356251925216 -36.1471614073085,-9.71334438561054 -36.1473147688704,-9.71311939982787 -36.147492882282,-9.71288467562971 -36.14773359845,-9.71254350609746 -36.1479533754301,-9.71216361409119 -36.1480357593591,-9.71199325493427 -36.1480721419141,-9.71183993624781 -36.1481606070779,-9.71152964805495 -36.1483049656816,-9.71130510850656 -36.1482183521894,-9.7103973452986</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

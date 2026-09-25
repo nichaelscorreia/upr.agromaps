@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>1011.kml</name>
+  <StyleMap id="FFFF4000">
+    <Pair>
+      <key>normal</key>
+      <styleUrl>#s_FFFF4000</styleUrl>
+    </Pair>
+    <Pair>
+      <key>highlight</key>
+      <styleUrl>#s_FFFF4000_hl</styleUrl>
+    </Pair>
+  </StyleMap>
+  <Style id="s_FFFF4000">
+   <IconStyle>
+      <scale>1.1</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/pushpin/agrocad.png</href>
+      </Icon>
+      <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+    </IconStyle>
+    <LineStyle>
+      <color>FFFF4000</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>40ffffff</color>
+      <fill>1</fill>
+    </PolyStyle>
+  </Style>
+  <Style id="s_FFFF4000_hl">
+    <IconStyle>
+      <scale>1.3</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/pushpin/agrocad.png</href>
+      </Icon>
+      <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+    </IconStyle>
+    <LineStyle>
+      <color>ff000000</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>40ffffff</color>
+      <fill>1</fill>
+    </PolyStyle>
+  </Style>
+  <Placemark>
+    <name>AgroCAD: 95B9</name>
+    <styleUrl>FFFF4000</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+           -36.36056691543656,-9.80753133777882 -36.36065626767758,-9.80760054854383 -36.36105383713322,-9.80793739797728 -36.36117284741046,-9.80804709128950 -36.36234294299828,-9.80905871773953 -36.36297339026551,-9.80956721202287 -36.36314902556814,-9.80970238349541 -36.36348121986394,-9.80993968502428 -36.36355115089671,-9.80997157958802 -36.36361647747502,-9.80997496489533 -36.36373666336002,-9.80992743128083 -36.36392981465654,-9.80986859518901 -36.36406001353863,-9.80985001912122 -36.36424304428905,-9.80979466067768 -36.36431311985486,-9.80976690466374 -36.36441232713167,-9.80972033796621 -36.36451645914783,-9.80968025509378 -36.36512559169426,-9.80939963558701 -36.36528124068924,-9.80932187277052 -36.36537248049501,-9.80925250366282 -36.36531051308997,-9.80918583025049 -36.36517723270576,-9.80904277697222 -36.36504786379116,-9.80889144374984 -36.36416195937580,-9.80791238330195 -36.36323373009218,-9.80689096190318 -36.36265327922038,-9.80626019040531 -36.36056691543656,-9.80753133777882
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+</Document>
+</kml>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>29.kml</name>
+  <StyleMap id="FF0000FF">
+    <Pair>
+      <key>normal</key>
+      <styleUrl>#s_FF0000FF</styleUrl>
+    </Pair>
+    <Pair>
+      <key>highlight</key>
+      <styleUrl>#s_FF0000FF_hl</styleUrl>
+    </Pair>
+  </StyleMap>
+  <Style id="s_FF0000FF">
+   <IconStyle>
+      <scale>1.1</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/pushpin/agrocad.png</href>
+      </Icon>
+      <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+    </IconStyle>
+    <LineStyle>
+      <color>FF0000FF</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>40ffffff</color>
+      <fill>1</fill>
+    </PolyStyle>
+  </Style>
+  <Style id="s_FF0000FF_hl">
+    <IconStyle>
+      <scale>1.3</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/pushpin/agrocad.png</href>
+      </Icon>
+      <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+    </IconStyle>
+    <LineStyle>
+      <color>ff000000</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>40ffffff</color>
+      <fill>1</fill>
+    </PolyStyle>
+  </Style>
+  <Placemark>
+    <name>AgroCAD: E79E</name>
+    <styleUrl>FF0000FF</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+           -36.33581170725748,-9.81048783108759 -36.33570127917497,-9.80999562386512 -36.33662245702570,-9.80977854301920 -36.33732702594543,-9.81261380763330 -36.33737280168903,-9.81277756209752 -36.33678573957511,-9.81301540719829 -36.33651391660281,-9.81309846421760 -36.33646672511451,-9.81308525060089 -36.33612128342048,-9.81163175276279 -36.33581170725748,-9.81048783108759 -36.33581170725748,-9.81048783108759
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>AgroCAD: E79D</name>
+    <styleUrl>FF0000FF</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+           -36.33571449279167,-9.80952182132315 -36.33570127917498,-9.80942366302753 -36.33611278895259,-9.80946707919671 -36.33629966724610,-9.80948973111111 -36.33653373702781,-9.80945009026100 -36.33661301872810,-9.80975589110486 -36.33568806555827,-9.80997297195080 -36.33568051492019,-9.80989369025051 -36.33571449279167,-9.80978798131682 -36.33572393108938,-9.80965018217112 -36.33571449279167,-9.80952182132315 -36.33571449279167,-9.80952182132315
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+</Document>
+</kml>

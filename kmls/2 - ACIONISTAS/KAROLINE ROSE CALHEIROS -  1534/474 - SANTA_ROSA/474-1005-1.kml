@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="SANTA_ROSA_TALHAO_1005_ID_75" id="SANTA_ROSA_TALHAO_1005_ID_75">
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="ACIONISTA" type="string"></SimpleField>
+	<SimpleField name="CODE" type="string"></SimpleField>
+</Schema>
+<Folder><name>SANTA_ROSA_TALHAO_1005_ID_75</name>
+  <Placemark id="SANTA_ROSA_TALHAO_1005_ID_75.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SANTA_ROSA_TALHAO_1005_ID_75">
+		<SimpleData name="ID">75</SimpleData>
+		<SimpleData name="AREA_TOTAL">1.86</SimpleData>
+		<SimpleData name="FAZENDA">2422</SimpleData>
+		<SimpleData name="FAZ_NOME">SANTA ROSA</SimpleData>
+		<SimpleData name="TALHAO">1005</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="ACIONISTA">KAROLINE ROSE CALHEIROS</SimpleData>
+		<SimpleData name="CODE"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.3500762854213,-9.81496288424609,0 -36.3502271182586,-9.81549394194231,0 -36.3502314195737,-9.81551601767237,0 -36.3502394417861,-9.8155419380461,0 -36.3502473484026,-9.81556543665189,0 -36.3502621610906,-9.81557207498783,0 -36.3502834529349,-9.81556672985399,0 -36.3504949364136,-9.81549323568205,0 -36.3506164879568,-9.81544398303058,0 -36.3507547286448,-9.81538714281898,0 -36.3508772183521,-9.81532239186807,0 -36.3509898460677,-9.81525846506028,0 -36.3510854025178,-9.8151939639403,0 -36.3511660002139,-9.81512171873974,0 -36.3512215946699,-9.8150452315196,0 -36.3512551458666,-9.81492147011131,0 -36.3512453604003,-9.81491435082238,0 -36.3507319835859,-9.8143326597628,0 -36.350619857002,-9.81415428071204,0 -36.3505542045114,-9.81400520935141,0 -36.3505234433757,-9.81383458531301,0 -36.350521588213,-9.81365612179648,0 -36.3504734443565,-9.81366785142182,0 -36.3503504243356,-9.81370200161251,0 -36.3502052022001,-9.81374128611523,0 -36.3500338572948,-9.81378772813469,0 -36.3498561057682,-9.81384053428368,0 -36.3498152076923,-9.81385436485578,0 -36.3497899465273,-9.81387057685975,0 -36.3497822473771,-9.81389913917747,0 -36.3498282819504,-9.81407655069162,0 -36.3500762854213,-9.81496288424609,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ARVORE_COMPRIDA_TALHAO_1006_ID_149" id="ARVORE_COMPRIDA_TALHAO_1006_ID_149">
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="ACIONISTA" type="string"></SimpleField>
+	<SimpleField name="CODE" type="string"></SimpleField>
+</Schema>
+<Folder><name>ARVORE_COMPRIDA_TALHAO_1006_ID_149</name>
+  <Placemark id="ARVORE_COMPRIDA_TALHAO_1006_ID_149.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#ARVORE_COMPRIDA_TALHAO_1006_ID_149">
+		<SimpleData name="ID">149</SimpleData>
+		<SimpleData name="AREA_TOTAL">5.59</SimpleData>
+		<SimpleData name="FAZENDA">2775</SimpleData>
+		<SimpleData name="FAZ_NOME">ARVORE COMPRIDA</SimpleData>
+		<SimpleData name="TALHAO">1006</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="ACIONISTA">ISABEL TENÓRIO</SimpleData>
+		<SimpleData name="CODE"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.3775548783758,-9.76418749483436,0 -36.3777182805793,-9.76643897084546,0 -36.3797499358881,-9.7667412586439,0 -36.3797444819261,-9.76661866031893,0 -36.3796721673849,-9.76570997794751,0 -36.3796053903973,-9.76486184096601,0 -36.3795771974537,-9.76450788274671,0 -36.3795774003313,-9.76447172108468,0 -36.3788970259871,-9.76435544404766,0 -36.3782145701718,-9.76423693405911,0 -36.3775973435499,-9.76412845184875,0 -36.3775894959681,-9.76416270344194,0 -36.3775828019431,-9.76419210116389,0 -36.3775548783758,-9.76418749483436,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

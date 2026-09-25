@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="BARRA_DA_PINDOBA_TALHAO_1002_ID_264" id="BARRA_DA_PINDOBA_TALHAO_1002_ID_264">
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="ACIONISTA" type="string"></SimpleField>
+	<SimpleField name="CODE" type="string"></SimpleField>
+</Schema>
+<Folder><name>BARRA_DA_PINDOBA_TALHAO_1002_ID_264</name>
+  <Placemark id="BARRA_DA_PINDOBA_TALHAO_1002_ID_264.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRA_DA_PINDOBA_TALHAO_1002_ID_264">
+		<SimpleData name="ID">264</SimpleData>
+		<SimpleData name="AREA_TOTAL">15.98</SimpleData>
+		<SimpleData name="FAZ_NOME">BARRA DA PINDOBA</SimpleData>
+		<SimpleData name="TALHAO">1002</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="ACIONISTA">ISABEL TENÓRIO</SimpleData>
+		<SimpleData name="CODE"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.245215511773,-9.80750673607354,0 -36.2454942652368,-9.80830011179613,0 -36.2455540368592,-9.80843005044381,0 -36.2456595011117,-9.80835677399767,0 -36.2458735971382,-9.80818549728989,0 -36.2459829948917,-9.8080979791444,0 -36.2462012389327,-9.80801068160341,0 -36.2465442753686,-9.80792492259854,0 -36.2468862521608,-9.80777530787262,0 -36.2471874215891,-9.80764623536627,0 -36.2475728349366,-9.80751776437601,0 -36.2477914351571,-9.80739852798785,0 -36.2476275512194,-9.80696150355739,0 -36.2473269585292,-9.80621002121018,0 -36.2471121747328,-9.80552271235306,0 -36.2467900380315,-9.80449187384261,0 -36.2465538896089,-9.80333259795525,0 -36.2463607257965,-9.8025384790156,0 -36.2462820146848,-9.80210443189244,0 -36.245916142457,-9.80233550887652,0 -36.2453166743083,-9.80269947141876,0 -36.2448672160489,-9.80310612386595,0 -36.2443738379712,-9.80353514800499,0 -36.2439882013633,-9.80389936012514,0 -36.2438799401524,-9.80401232889179,0 -36.2439488107095,-9.80411446162746,0 -36.2444001062955,-9.80538238808281,0 -36.2448291811381,-9.8064979832958,0 -36.245215511773,-9.80750673607354,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

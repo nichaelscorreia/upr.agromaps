@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="BENTO_MOREIRA_TALHAO_1021_ID_248" id="BENTO_MOREIRA_TALHAO_1021_ID_248">
+	<SimpleField name="CODE" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+</Schema>
+<Folder><name>BENTO_MOREIRA_TALHAO_1021_ID_248</name>
+  <Placemark id="BENTO_MOREIRA_TALHAO_1021_ID_248.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BENTO_MOREIRA_TALHAO_1021_ID_248">
+		<SimpleData name="CODE">249</SimpleData>
+		<SimpleData name="TALHAO">1021</SimpleData>
+		<SimpleData name="AREA_TOTAL">9.067</SimpleData>
+		<SimpleData name="FAZENDA">1506</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="FAZ_NOME">BENTO MOREIRA</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.0790293306282,-9.68118095965453 -36.0780168915454,-9.6799512338778 -36.0776882284811,-9.67961837043947 -36.0776087997868,-9.67947082659322 -36.0774886061581,-9.67926680773605 -36.0773220332373,-9.67906464145804 -36.0771208497394,-9.67884663856803 -36.0770247797071,-9.67879899184144 -36.0767285608061,-9.67872107360418 -36.0765454843453,-9.67873285973941 -36.0762871461644,-9.67888923935152 -36.0759935134293,-9.67908772981277 -36.0757156404805,-9.67941523996425 -36.0756252415764,-9.67967684541038 -36.0756387760528,-9.68010249947806 -36.0757153593285,-9.68061733040814 -36.0769483331905,-9.68214313523711 -36.0772907004326,-9.68256618439499 -36.0790293306282,-9.68118095965453</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

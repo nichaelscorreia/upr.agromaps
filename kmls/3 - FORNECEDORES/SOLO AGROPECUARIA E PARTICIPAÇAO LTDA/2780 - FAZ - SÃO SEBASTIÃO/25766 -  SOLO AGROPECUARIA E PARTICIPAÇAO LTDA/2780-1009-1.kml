@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>09.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>09</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-36.25126550433201,-9.897327365329055,0 -36.25149163002007,-9.89730342255719,0 -36.2520418735953,-9.897342666210523,0 -36.25300231132958,-9.897439076670642,0 -36.25375888862752,-9.897519858295665,0 -36.25419739922031,-9.897564033972275,0 -36.25375159234532,-9.899606838557016,0 -36.25366803805289,-9.899911650096637,0 -36.25357874405856,-9.900051688511761,0 -36.25346816092033,-9.900089584120366,0 -36.25300466516999,-9.900040815247525,0 -36.25164581545047,-9.899863941196479,0 -36.25127444591479,-9.899835736963865,0 -36.2510861896417,-9.899815705304956,0 -36.25096859252828,-9.89975408092617,0 -36.25097459662148,-9.899507784176899,0 -36.2510988416586,-9.898617418086721,0 -36.25126550433201,-9.897327365329055,0 
+			</coordinates>
+		</LineString>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.7.1155"></atom:link>
+	</Placemark>
+</Document>
+</kml>

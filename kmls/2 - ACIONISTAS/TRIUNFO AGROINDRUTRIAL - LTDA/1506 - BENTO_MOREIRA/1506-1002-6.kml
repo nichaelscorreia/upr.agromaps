@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="BENTO_MOREIRA_TALHAO_1002_ID_243" id="BENTO_MOREIRA_TALHAO_1002_ID_243">
+	<SimpleField name="CODE" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+</Schema>
+<Folder><name>BENTO_MOREIRA_TALHAO_1002_ID_243</name>
+  <Placemark id="BENTO_MOREIRA_TALHAO_1002_ID_243.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BENTO_MOREIRA_TALHAO_1002_ID_243">
+		<SimpleData name="CODE">244</SimpleData>
+		<SimpleData name="TALHAO">1002</SimpleData>
+		<SimpleData name="AREA_TOTAL">12.395</SimpleData>
+		<SimpleData name="FAZENDA">1506</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="FAZ_NOME">BENTO MOREIRA</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.0996998728898,-9.66668795675406 -36.1013220120781,-9.66806599626199 -36.1036105921722,-9.66662679389182 -36.103217890221,-9.6649530697872 -36.1031212201408,-9.66488110612039 -36.1019776094857,-9.66464483724022 -36.1016119424263,-9.66468077760108 -36.1012064009322,-9.66450035315208 -36.1004334569059,-9.66431341779053 -36.0999406367592,-9.66474287913383 -36.0996998728898,-9.66668795675406</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

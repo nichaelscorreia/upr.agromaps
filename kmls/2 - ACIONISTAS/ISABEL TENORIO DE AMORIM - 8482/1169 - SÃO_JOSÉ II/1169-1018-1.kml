@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="SÃO_JOSÉ_TALHAO_1018_ID_186" id="SÃO_JOSÉ_TALHAO_1018_ID_186">
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="ACIONISTA" type="string"></SimpleField>
+	<SimpleField name="CODE" type="string"></SimpleField>
+</Schema>
+<Folder><name>SÃO_JOSÉ_TALHAO_1018_ID_186</name>
+  <Placemark id="SÃO_JOSÉ_TALHAO_1018_ID_186.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SÃO_JOSÉ_TALHAO_1018_ID_186">
+		<SimpleData name="ID">186</SimpleData>
+		<SimpleData name="AREA_TOTAL">5.04</SimpleData>
+		<SimpleData name="FAZ_NOME">SÃO JOSÉ</SimpleData>
+		<SimpleData name="TALHAO">1018</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="ACIONISTA">ISABEL TENÓRIO</SimpleData>
+		<SimpleData name="CODE"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.2606326753223,-9.81974760743999,0 -36.2608684514334,-9.82039063355108,0 -36.2611903036556,-9.82114162216222,0 -36.2612702633778,-9.82135751382886,0 -36.2616593278222,-9.82093719188445,0 -36.2616974325445,-9.82089894660668,0 -36.2618258583778,-9.82079192521781,0 -36.2622541558777,-9.82032079827341,0 -36.2625628939333,-9.81998012271787,0 -36.2625576856,-9.81981866410677,0 -36.2625362244889,-9.81848804077347,0 -36.2625204642111,-9.81749511632907,0 -36.2624497447666,-9.81743618355129,0 -36.2613052322667,-9.81880807410676,0 -36.2606017567112,-9.81965485188443,0 -36.2606326753223,-9.81974760743999,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

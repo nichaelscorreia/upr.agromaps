@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>05.kml</name>
+  <StyleMap id="FFFF0000">
+    <Pair>
+      <key>normal</key>
+      <styleUrl>#s_FFFF0000</styleUrl>
+    </Pair>
+    <Pair>
+      <key>highlight</key>
+      <styleUrl>#s_FFFF0000_hl</styleUrl>
+    </Pair>
+  </StyleMap>
+  <Style id="s_FFFF0000">
+   <IconStyle>
+      <scale>1.1</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/pushpin/agrocad.png</href>
+      </Icon>
+      <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+    </IconStyle>
+    <LineStyle>
+      <color>FFFF0000</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>40ffffff</color>
+      <fill>1</fill>
+    </PolyStyle>
+  </Style>
+  <Style id="s_FFFF0000_hl">
+    <IconStyle>
+      <scale>1.3</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/pushpin/agrocad.png</href>
+      </Icon>
+      <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+    </IconStyle>
+    <LineStyle>
+      <color>ff000000</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>40ffffff</color>
+      <fill>1</fill>
+    </PolyStyle>
+  </Style>
+  <Placemark>
+    <name>AgroCAD: 1B0D3</name>
+    <styleUrl>FFFF0000</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+           -36.43354360705873,-9.74014773989840 -36.43366299487046,-9.74012398450739 -36.43371974356990,-9.74011829999575 -36.43377699713618,-9.74011526521114 -36.43382955193315,-9.74011185348812 -36.43392105849426,-9.74012066385507 -36.43369148831693,-9.74078696163818 -36.43354360705873,-9.74014773989840 -36.43354360705873,-9.74014773989840
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>AgroCAD: 1B0D0</name>
+    <styleUrl>FFFF0000</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+           -36.43371468752613,-9.74088725374178 -36.43398598059363,-9.74009986049819 -36.43408533849198,-9.74009076657160 -36.43419496050427,-9.74008027057478 -36.43423289454685,-9.74007763305652 -36.43430729326076,-9.74007280961841 -36.43441734326466,-9.74006409788756 -36.43448994417748,-9.74005768075345 -36.43455969469220,-9.74005107578852 -36.43463995372221,-9.74004332566828 -36.43471178338951,-9.74003575181379 -36.43477149800425,-9.74003045508868 -36.43482664045303,-9.74002556390798 -36.43489008489043,-9.74001848627272 -36.43498312952654,-9.74001355196769 -36.43503982968038,-9.74000697726695 -36.43505027659822,-9.74003640355208 -36.43518532335875,-9.74054655834601 -36.43582074525588,-9.74336542260278 -36.43591127775802,-9.74374688311350 -36.43591687356726,-9.74376471856622 -36.43592407979703,-9.74378235872038 -36.43592966733678,-9.74381631660068 -36.43440595095390,-9.74388034978807 -36.43371468752613,-9.74088725374178 -36.43371468752613,-9.74088725374178
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+</Document>
+</kml>

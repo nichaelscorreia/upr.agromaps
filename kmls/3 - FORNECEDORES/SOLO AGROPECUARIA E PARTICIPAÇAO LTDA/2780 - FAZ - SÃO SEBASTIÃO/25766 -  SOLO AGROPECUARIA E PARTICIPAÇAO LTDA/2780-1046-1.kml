@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>46.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>46</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-36.250257652324,-9.910338755911283,0 -36.25150918407805,-9.911203816796389,0 -36.25239335453058,-9.911765968495166,0 -36.25373202998902,-9.910365612713589,0 -36.2551969849196,-9.908780353437324,0 -36.25505700519847,-9.90874008335258,0 -36.2547956995306,-9.908736263926482,0 -36.25455530766188,-9.90878599741491,0 -36.25435520271614,-9.908761092519466,0 -36.25398249260611,-9.908680340147738,0 -36.25353577235866,-9.908541796291274,0 -36.25298579307937,-9.908571930264037,0 -36.2519486181496,-9.908790291893062,0 -36.25163036404508,-9.908908840068879,0 -36.25127454743289,-9.909157603559311,0 -36.25086177764639,-9.909569313582713,0 -36.25044256522283,-9.910028599240473,0 -36.25021009695303,-9.910307719584193,0 -36.250257652324,-9.910338755911283,0 
+			</coordinates>
+		</LineString>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.7.1155"></atom:link>
+	</Placemark>
+</Document>
+</kml>

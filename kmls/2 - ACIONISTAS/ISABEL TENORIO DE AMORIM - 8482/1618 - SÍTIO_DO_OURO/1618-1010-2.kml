@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="SÍTIO_DO_OURO_TALHAO_1010_ID_207" id="SÍTIO_DO_OURO_TALHAO_1010_ID_207">
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="ACIONISTA" type="string"></SimpleField>
+	<SimpleField name="CODE" type="string"></SimpleField>
+</Schema>
+<Folder><name>SÍTIO_DO_OURO_TALHAO_1010_ID_207</name>
+  <Placemark id="SÍTIO_DO_OURO_TALHAO_1010_ID_207.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SÍTIO_DO_OURO_TALHAO_1010_ID_207">
+		<SimpleData name="ID">207</SimpleData>
+		<SimpleData name="AREA_TOTAL">2.48</SimpleData>
+		<SimpleData name="FAZ_NOME">SÍTIO DO OURO</SimpleData>
+		<SimpleData name="TALHAO">1010</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="ACIONISTA">ISABEL TENÓRIO</SimpleData>
+		<SimpleData name="CODE"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.2551430562265,-9.80512042742667,0 -36.2542697227218,-9.80563133506899,0 -36.2547535792989,-9.80774783709526,0 -36.2547680385724,-9.80781583390307,0 -36.2555754729996,-9.80714487944432,0 -36.2551430562265,-9.80512042742667,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

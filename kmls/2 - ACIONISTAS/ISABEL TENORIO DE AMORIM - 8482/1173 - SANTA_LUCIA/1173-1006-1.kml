@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="SANTA_LUCIA_TALHAO_1006_ID_172" id="SANTA_LUCIA_TALHAO_1006_ID_172">
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="ACIONISTA" type="string"></SimpleField>
+	<SimpleField name="CODE" type="string"></SimpleField>
+</Schema>
+<Folder><name>SANTA_LUCIA_TALHAO_1006_ID_172</name>
+  <Placemark id="SANTA_LUCIA_TALHAO_1006_ID_172.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SANTA_LUCIA_TALHAO_1006_ID_172">
+		<SimpleData name="ID">172</SimpleData>
+		<SimpleData name="AREA_TOTAL">3.01</SimpleData>
+		<SimpleData name="FAZENDA">1173</SimpleData>
+		<SimpleData name="FAZ_NOME">SANTA LUCIA</SimpleData>
+		<SimpleData name="TALHAO">1006</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="ACIONISTA">ISABEL TENÓRIO</SimpleData>
+		<SimpleData name="CODE"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.4336811209917,-9.74098467626755,0 -36.4326581059898,-9.74395379363803,0 -36.4343504229847,-9.74388268350634,0 -36.4336811209917,-9.74098467626755,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

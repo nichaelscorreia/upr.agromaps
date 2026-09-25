@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>48.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>48</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-36.25530533285197,-9.908815866389441,0 -36.2557147022905,-9.908918503788575,0 -36.25601357094154,-9.909110337756385,0 -36.25628616476833,-9.909413586257568,0 -36.25643896199058,-9.909653689195027,0 -36.25663721433985,-9.909930798737737,0 -36.25676768953454,-9.910207709160099,0 -36.25689285344568,-9.910396646441578,0 -36.25696909684905,-9.91051350151753,0 -36.25704800675533,-9.91061407385706,0 -36.25705204054876,-9.91061702307967,0 -36.25715733231213,-9.91070627137271,0 -36.25716802794218,-9.910717158926715,0 -36.25723057437168,-9.910762888369561,0 -36.25728354650428,-9.910821545192729,0 -36.25730192954638,-9.910847424260085,0 -36.25705733512678,-9.910702800716162,0 -36.25489292853764,-9.90922605162724,0 -36.25486885592752,-9.909203718569469,0 -36.25524937674409,-9.908791682030927,0 -36.25530533285197,-9.908815866389441,0 
+			</coordinates>
+		</LineString>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.7.1155"></atom:link>
+	</Placemark>
+</Document>
+</kml>

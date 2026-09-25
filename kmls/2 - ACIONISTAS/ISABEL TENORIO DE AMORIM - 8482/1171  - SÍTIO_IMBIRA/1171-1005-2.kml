@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="SÍTIO_IMBIRA_TALHAO_1005_ID_6" id="SÍTIO_IMBIRA_TALHAO_1005_ID_6">
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="ACIONISTA" type="string"></SimpleField>
+	<SimpleField name="CODE" type="string"></SimpleField>
+</Schema>
+<Folder><name>SÍTIO_IMBIRA_TALHAO_1005_ID_6</name>
+  <Placemark id="SÍTIO_IMBIRA_TALHAO_1005_ID_6.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SÍTIO_IMBIRA_TALHAO_1005_ID_6">
+		<SimpleData name="ID">6</SimpleData>
+		<SimpleData name="AREA_TOTAL">0.08</SimpleData>
+		<SimpleData name="FAZ_NOME">SÍTIO IMBIRA</SimpleData>
+		<SimpleData name="TALHAO">1005</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="ACIONISTA">ISABEL TENÓRIO</SimpleData>
+		<SimpleData name="CODE"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.2761514541187,-9.81794437891017,0 -36.2761350791621,-9.81792660183495,0 -36.2761210394551,-9.81793405114773,0 -36.2757953731244,-9.81844188432544,0 -36.2757950019354,-9.81848725500253,0 -36.2758616178148,-9.81857727805118,0 -36.2759042653937,-9.81864568175806,0 -36.2759297312747,-9.8186395847943,0 -36.2759426755785,-9.81861070022867,0 -36.2759471578997,-9.81852881161829,0 -36.2759708762208,-9.81842565134609,0 -36.2760154414526,-9.81825963983143,0 -36.2760466912141,-9.81816788356402,0 -36.2761514541187,-9.81794437891017,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="CHÃ_DOS_LEÕES_TALHAO_1014_ID_204" id="CHÃ_DOS_LEÕES_TALHAO_1014_ID_204">
+	<SimpleField name="CODE" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+</Schema>
+<Folder><name>CHÃ_DOS_LEÕES_TALHAO_1014_ID_204</name>
+  <Placemark id="CHÃ_DOS_LEÕES_TALHAO_1014_ID_204.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CHÃ_DOS_LEÕES_TALHAO_1014_ID_204">
+		<SimpleData name="CODE">205</SimpleData>
+		<SimpleData name="TALHAO">1014</SimpleData>
+		<SimpleData name="AREA_TOTAL">3.039</SimpleData>
+		<SimpleData name="FAZENDA">2077</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="FAZ_NOME">CHÃ DOS LEÕES</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.1156144181698,-9.68216608671137 -36.1168446831886,-9.68026945649238 -36.1168435023621,-9.68026870217441 -36.1149789964491,-9.6790644306254 -36.1149969659308,-9.67929862786678 -36.1150437675299,-9.67944336163579 -36.1150767918493,-9.67966816190698 -36.1151396493585,-9.67980387841445 -36.1152058871501,-9.6799075448073 -36.1152222915083,-9.68013833578742 -36.1152759568894,-9.68063825147571 -36.1153199963801,-9.68081708497422 -36.1153946809074,-9.68097320016838 -36.1155322441165,-9.6814201670611 -36.1156202727669,-9.6817727783157 -36.115615164701,-9.68193102047459 -36.1155859642692,-9.68208415103248 -36.1156144181698,-9.68216608671137</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="BAIXA_GRANDE_TALHAO_1029_ID_275" id="BAIXA_GRANDE_TALHAO_1029_ID_275">
+	<SimpleField name="CODE" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+</Schema>
+<Folder><name>BAIXA_GRANDE_TALHAO_1029_ID_275</name>
+  <Placemark id="BAIXA_GRANDE_TALHAO_1029_ID_275.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BAIXA_GRANDE_TALHAO_1029_ID_275">
+		<SimpleData name="CODE">276</SimpleData>
+		<SimpleData name="TALHAO">1029</SimpleData>
+		<SimpleData name="AREA_TOTAL">2.832</SimpleData>
+		<SimpleData name="FAZENDA">2162</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="FAZ_NOME">BAIXA GRANDE</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.1918915188242,-9.70537821191747 -36.1902421336458,-9.70373229624889 -36.189000136375,-9.70492844441304 -36.1909898725582,-9.70531565296669 -36.1910743674287,-9.70531078670544 -36.1911454264268,-9.7053970464621 -36.1911591879709,-9.70545768835176 -36.1912043377514,-9.70553541429719 -36.1913097359317,-9.705622653843 -36.1914870225797,-9.70568993117977 -36.191643026459,-9.70558795207229 -36.1918915188242,-9.70537821191747</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

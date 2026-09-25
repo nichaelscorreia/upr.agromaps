@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>17.kml</name>
+  <StyleMap id="FF0000FF">
+    <Pair>
+      <key>normal</key>
+      <styleUrl>#s_FF0000FF</styleUrl>
+    </Pair>
+    <Pair>
+      <key>highlight</key>
+      <styleUrl>#s_FF0000FF_hl</styleUrl>
+    </Pair>
+  </StyleMap>
+  <Style id="s_FF0000FF">
+   <IconStyle>
+      <scale>1.1</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/pushpin/agrocad.png</href>
+      </Icon>
+      <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+    </IconStyle>
+    <LineStyle>
+      <color>FF0000FF</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>40ffffff</color>
+      <fill>1</fill>
+    </PolyStyle>
+  </Style>
+  <Style id="s_FF0000FF_hl">
+    <IconStyle>
+      <scale>1.3</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/pushpin/agrocad.png</href>
+      </Icon>
+      <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+    </IconStyle>
+    <LineStyle>
+      <color>ff000000</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>40ffffff</color>
+      <fill>1</fill>
+    </PolyStyle>
+  </Style>
+  <Placemark>
+    <name>AgroCAD: E706</name>
+    <styleUrl>FF0000FF</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+           -36.32424553874429,-9.79253024014102 -36.32412960714261,-9.79200266734471 -36.32407332150979,-9.79179768683148 -36.32407794197219,-9.79176912397308 -36.32411406558729,-9.79176702376294 -36.32415901008499,-9.79178382544433 -36.32422621681069,-9.79181280834479 -36.32431484568011,-9.79183549061473 -36.32438289248981,-9.79185061212797 -36.32445892009819,-9.79186489355713 -36.32456477069111,-9.79186951401955 -36.32462483670221,-9.79186531359921 -36.32465213943451,-9.79196906398187 -36.32467986220881,-9.79208415549959 -36.32472690691682,-9.79227737483585 -36.32478814993306,-9.79248622922960 -36.32479710918733,-9.79252421577029 -36.32485459969552,-9.79281166830476 -36.32485459969552,-9.79283687082680 -36.32467986220881,-9.79287047418962 -36.32447656186370,-9.79291583872945 -36.32437407160710,-9.79300320747278 -36.32424553874429,-9.79253024014102 -36.32424553874429,-9.79253024014102
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+</Document>
+</kml>

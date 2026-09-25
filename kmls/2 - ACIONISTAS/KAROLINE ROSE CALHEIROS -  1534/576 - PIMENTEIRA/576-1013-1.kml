@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="PIMENTEIRA_TALHAO_1013_ID_89" id="PIMENTEIRA_TALHAO_1013_ID_89">
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="ACIONISTA" type="string"></SimpleField>
+	<SimpleField name="CODE" type="string"></SimpleField>
+</Schema>
+<Folder><name>PIMENTEIRA_TALHAO_1013_ID_89</name>
+  <Placemark id="PIMENTEIRA_TALHAO_1013_ID_89.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#PIMENTEIRA_TALHAO_1013_ID_89">
+		<SimpleData name="ID">89</SimpleData>
+		<SimpleData name="AREA_TOTAL">16.50</SimpleData>
+		<SimpleData name="FAZENDA">2420</SimpleData>
+		<SimpleData name="FAZ_NOME">PIMENTEIRA</SimpleData>
+		<SimpleData name="TALHAO">1013</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="ACIONISTA">KAROLINE ROSE CALHEIROS</SimpleData>
+		<SimpleData name="CODE"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.3777617126287,-9.80775370162456,0 -36.3746099531306,-9.81173208914388,0 -36.3755430278494,-9.81412403459417,0 -36.3756243059474,-9.81426234818253,0 -36.3758913472415,-9.81405488318807,0 -36.3760592556139,-9.81391930433897,0 -36.3763678834933,-9.81351985258642,0 -36.3766985389409,-9.81312488520538,0 -36.3770303838487,-9.81261940799376,0 -36.3772531865396,-9.81232284705294,0 -36.3775072870258,-9.81203121449432,0 -36.3776777029237,-9.81182272274452,0 -36.3779229874628,-9.81163619533013,0 -36.3781071571502,-9.81144138230705,0 -36.3787636479438,-9.81066192104619,0 -36.3791553475671,-9.81014473912291,0 -36.3791615725407,-9.81012231766733,0 -36.3791486101119,-9.81009897779008,0 -36.3791324477213,-9.81006174667621,0 -36.3791142082758,-9.810029670726,0 -36.3789990181834,-9.80979679170651,0 -36.3785649757699,-9.80895679011736,0 -36.3781132267486,-9.80806335481988,0 -36.37790429059,-9.80766007392982,0 -36.3778706285589,-9.80763328363462,0 -36.3778465370304,-9.80764195560786,0 -36.3778281959042,-9.80766676058584,0 -36.3777880478241,-9.80771564399718,0 -36.3777617126287,-9.80775370162456,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

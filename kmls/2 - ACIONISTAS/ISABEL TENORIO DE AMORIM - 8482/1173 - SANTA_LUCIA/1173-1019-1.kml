@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="SANTA_LUCIA_TALHAO_1019_ID_169" id="SANTA_LUCIA_TALHAO_1019_ID_169">
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="ACIONISTA" type="string"></SimpleField>
+	<SimpleField name="CODE" type="string"></SimpleField>
+</Schema>
+<Folder><name>SANTA_LUCIA_TALHAO_1019_ID_169</name>
+  <Placemark id="SANTA_LUCIA_TALHAO_1019_ID_169.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SANTA_LUCIA_TALHAO_1019_ID_169">
+		<SimpleData name="ID">169</SimpleData>
+		<SimpleData name="AREA_TOTAL">13.40</SimpleData>
+		<SimpleData name="FAZ_NOME">SANTA LUCIA</SimpleData>
+		<SimpleData name="TALHAO">1019</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="ACIONISTA">ISABEL TENÓRIO</SimpleData>
+		<SimpleData name="CODE"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.4405094113522,-9.74037137372041,0 -36.4404235354153,-9.74090809848782,0 -36.4402732790759,-9.74129447198241,0 -36.4402088523785,-9.74165955669918,0 -36.4400167752273,-9.74210773677631,0 -36.4400271590351,-9.74220217381115,0 -36.4400787785113,-9.74233266378811,0 -36.4402493790837,-9.74258856462433,0 -36.4406786078702,-9.74323240775061,0 -36.4411077103602,-9.74389751655351,0 -36.4414295976321,-9.74436961784681,0 -36.4414844014701,-9.74445538161462,0 -36.4415083677933,-9.74443150863184,0 -36.4418728618074,-9.74402413297898,0 -36.4427739326499,-9.74303724589211,0 -36.4436229886923,-9.74203960512291,0 -36.4433732481064,-9.74168580591875,0 -36.4430513052662,-9.74117069732878,0 -36.4427296427834,-9.74069892564754,0 -36.442407616524,-9.74022662042725,0 -36.4421069495991,-9.73975414378881,0 -36.4416778177586,-9.73904607618642,0 -36.4414863932721,-9.7387483047385,0 -36.4414341800618,-9.73870588808445,0 -36.4413967204638,-9.73869238681055,0 -36.4412557614447,-9.7388132088237,0 -36.4410429478824,-9.7390685851062,0 -36.4408297597961,-9.73940968606391,0 -36.4407663821003,-9.73955756736889,0 -36.4406377984372,-9.74000761026212,0 -36.4405094113522,-9.74037137372041,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

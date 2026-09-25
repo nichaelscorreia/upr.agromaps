@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>1038.kml</name>
+  <StyleMap id="FF0040FF">
+    <Pair>
+      <key>normal</key>
+      <styleUrl>#s_FF0040FF</styleUrl>
+    </Pair>
+    <Pair>
+      <key>highlight</key>
+      <styleUrl>#s_FF0040FF_hl</styleUrl>
+    </Pair>
+  </StyleMap>
+  <Style id="s_FF0040FF">
+   <IconStyle>
+      <scale>1.1</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/pushpin/agrocad.png</href>
+      </Icon>
+      <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+    </IconStyle>
+    <LineStyle>
+      <color>FF0040FF</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>40ffffff</color>
+      <fill>1</fill>
+    </PolyStyle>
+  </Style>
+  <Style id="s_FF0040FF_hl">
+    <IconStyle>
+      <scale>1.3</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/pushpin/agrocad.png</href>
+      </Icon>
+      <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+    </IconStyle>
+    <LineStyle>
+      <color>ff000000</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>40ffffff</color>
+      <fill>1</fill>
+    </PolyStyle>
+  </Style>
+  <Placemark>
+    <name>AgroCAD: 840C</name>
+    <styleUrl>FF0040FF</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+           -36.40846936886159,-9.76969440870918 -36.40849164866973,-9.76973639665508 -36.40857267589485,-9.76988312097666 -36.40872211036283,-9.77015989088539 -36.40890328585211,-9.77050010448146 -36.40906907591602,-9.77080743277698 -36.40938126858679,-9.77141251199313 -36.40968545741624,-9.77199045008311 -36.40996065247117,-9.77252242469795 -36.41021112204182,-9.77300206368336 -36.41046608970463,-9.77348876330797 -36.41072296837846,-9.77397241761545 -36.41098231098104,-9.77446009256377 -36.41125557958825,-9.77498844688111 -36.41138933172616,-9.77524379255563 -36.41702556310796,-9.77308864597044 -36.41497750249138,-9.76918390267573 -36.41284218493991,-9.76936537782260 -36.41275067368130,-9.76936293788246 -36.41255243675113,-9.76937716166783 -36.41221076181750,-9.76940711910920 -36.41190756922818,-9.76942939927506 -36.41164240465943,-9.76945327873264 -36.41083824909635,-9.76951312122687 -36.41013689139631,-9.76956457294931 -36.40951214200811,-9.76961152839358 -36.40905718691943,-9.76964822807251 -36.40878568470375,-9.76966711427764 -36.40846936886160,-9.76969440870918 -36.40846936886159,-9.76969440870918
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+</Document>
+</kml>

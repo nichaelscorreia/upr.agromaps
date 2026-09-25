@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="CALUGY_TALHAO_1008_ID_139" id="CALUGY_TALHAO_1008_ID_139">
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="ACIONISTA" type="string"></SimpleField>
+	<SimpleField name="CODE" type="string"></SimpleField>
+</Schema>
+<Folder><name>CALUGY_TALHAO_1008_ID_139</name>
+  <Placemark id="CALUGY_TALHAO_1008_ID_139.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CALUGY_TALHAO_1008_ID_139">
+		<SimpleData name="ID">139</SimpleData>
+		<SimpleData name="AREA_TOTAL">3.96</SimpleData>
+		<SimpleData name="FAZENDA">2740</SimpleData>
+		<SimpleData name="FAZ_NOME">CALUGY</SimpleData>
+		<SimpleData name="TALHAO">1008</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="ACIONISTA">HENRIQUE TENÓRIO</SimpleData>
+		<SimpleData name="CODE"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.3629737924566,-9.73482181137462,0 -36.3629846769167,-9.73500085844804,0 -36.3629950407683,-9.73516087140148,0 -36.3630046107416,-9.73531140195524,0 -36.3630146246983,-9.73544972684712,0 -36.3630200880023,-9.73557978185264,0 -36.363027407079,-9.73571726058136,0 -36.363030590629,-9.73585054901986,0 -36.3630242370365,-9.73596307380923,0 -36.3630210710347,-9.73599700921928,0 -36.3633598103112,-9.73604562791508,0 -36.3634132651343,-9.73607702112974,0 -36.3637079092787,-9.73610463045568,0 -36.363978516693,-9.73612909047669,0 -36.3642891749494,-9.73616244785987,0 -36.3644904928068,-9.73618720137101,0 -36.3645548326991,-9.73597633486913,0 -36.3645907237541,-9.73565740985367,0 -36.3645977497062,-9.73541048673948,0 -36.3645914765181,-9.73530460411981,0 -36.3645509133555,-9.73502176665857,0 -36.364506245546,-9.7347256653896,0 -36.3642679204991,-9.73470396378135,0 -36.3642460672711,-9.73416063192611,0 -36.3642400957712,-9.7340370023725,0 -36.3629096554024,-9.73371644647084,0 -36.3629162828174,-9.73386336334498,0 -36.3629239711631,-9.73405321709719,0 -36.3629366352975,-9.73423079035892,0 -36.3629478057003,-9.73441691786973,0 -36.3629598754101,-9.7346236281902,0 -36.3629737924566,-9.73482181137462,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>15.kml</name>
+  <StyleMap id="FFFF4000">
+    <Pair>
+      <key>normal</key>
+      <styleUrl>#s_FFFF4000</styleUrl>
+    </Pair>
+    <Pair>
+      <key>highlight</key>
+      <styleUrl>#s_FFFF4000_hl</styleUrl>
+    </Pair>
+  </StyleMap>
+  <Style id="s_FFFF4000">
+   <IconStyle>
+      <scale>1.1</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/pushpin/agrocad.png</href>
+      </Icon>
+      <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+    </IconStyle>
+    <LineStyle>
+      <color>FFFF4000</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>40ffffff</color>
+      <fill>1</fill>
+    </PolyStyle>
+  </Style>
+  <Style id="s_FFFF4000_hl">
+    <IconStyle>
+      <scale>1.3</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/pushpin/agrocad.png</href>
+      </Icon>
+      <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+    </IconStyle>
+    <LineStyle>
+      <color>ff000000</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>40ffffff</color>
+      <fill>1</fill>
+    </PolyStyle>
+  </Style>
+  <Placemark>
+    <name>AgroCAD: 1DAFF</name>
+    <styleUrl>FFFF4000</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+           -36.41834724798677,-9.63247212531472 -36.41852906637538,-9.63238082031393 -36.41952551903322,-9.63195162745241 -36.42091046661504,-9.63138616806860 -36.42091815769445,-9.63138369233346 -36.42119729576235,-9.63228855724219 -36.42135981003737,-9.63285253545702 -36.42152781247137,-9.63346035158473 -36.42178803099188,-9.63436044326309 -36.42187044718808,-9.63467273688350 -36.42188479845608,-9.63473844655220 -36.42188462189688,-9.63480948752124 -36.42187222348887,-9.63484203864759 -36.42185475623208,-9.63486978825611 -36.42180669927707,-9.63489028769151 -36.42150558878475,-9.63500773805393 -36.42136290648195,-9.63507014653601 -36.42123075800536,-9.63513808677744 -36.42101805870985,-9.63526347529736 -36.42087820027825,-9.63535144748841 -36.42068693811894,-9.63547941716220 -36.42045282903215,-9.63562539815533 -36.42015749471413,-9.63578846658085 -36.41999130584783,-9.63586940967409 -36.41948028378161,-9.63609919315278 -36.41834724798677,-9.63247212531472 -36.41834724798677,-9.63247212531472 -36.41834724798677,-9.63247212531472
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+</Document>
+</kml>

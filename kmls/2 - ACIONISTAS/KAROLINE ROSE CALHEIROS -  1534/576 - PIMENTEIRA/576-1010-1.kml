@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="PIMENTEIRA_TALHAO_1010_ID_82" id="PIMENTEIRA_TALHAO_1010_ID_82">
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="ACIONISTA" type="string"></SimpleField>
+	<SimpleField name="CODE" type="string"></SimpleField>
+</Schema>
+<Folder><name>PIMENTEIRA_TALHAO_1010_ID_82</name>
+  <Placemark id="PIMENTEIRA_TALHAO_1010_ID_82.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#PIMENTEIRA_TALHAO_1010_ID_82">
+		<SimpleData name="ID">82</SimpleData>
+		<SimpleData name="AREA_TOTAL">18.45</SimpleData>
+		<SimpleData name="FAZENDA">2736</SimpleData>
+		<SimpleData name="FAZ_NOME">PIMENTEIRA</SimpleData>
+		<SimpleData name="TALHAO">1010</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="ACIONISTA">KAROLINE ROSE CALHEIROS</SimpleData>
+		<SimpleData name="CODE"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.3744896213076,-9.80088578814261,0 -36.3747386268002,-9.8013879733988,0 -36.3753012301345,-9.8024811987997,0 -36.3753179692459,-9.80251554538657,0 -36.3753329499067,-9.80255014956056,0 -36.3753517490377,-9.80257936506899,0 -36.3753804204296,-9.80258667759726,0 -36.3754147487369,-9.80257368640216,0 -36.3754492706231,-9.8025598210274,0 -36.3754810600204,-9.80254238562207,0 -36.3799934913587,-9.80059567305127,0 -36.3797769089604,-9.7996593378523,0 -36.3793548131763,-9.79778105286558,0 -36.3742219039157,-9.80004467727892,0 -36.3741766312435,-9.80006999434494,0 -36.3741455372347,-9.80009100394599,0 -36.3741230725951,-9.8001232433573,0 -36.3741312656192,-9.80014338051772,0 -36.3742011621078,-9.80029146238351,0 -36.3744896213076,-9.80088578814261,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

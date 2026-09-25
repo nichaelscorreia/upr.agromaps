@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="SÃO_JOSÉ_TALHAO_1016_ID_233" id="SÃO_JOSÉ_TALHAO_1016_ID_233">
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="ACIONISTA" type="string"></SimpleField>
+	<SimpleField name="CODE" type="string"></SimpleField>
+</Schema>
+<Folder><name>SÃO_JOSÉ_TALHAO_1016_ID_233</name>
+  <Placemark id="SÃO_JOSÉ_TALHAO_1016_ID_233.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SÃO_JOSÉ_TALHAO_1016_ID_233">
+		<SimpleData name="ID">233</SimpleData>
+		<SimpleData name="AREA_TOTAL">4.56</SimpleData>
+		<SimpleData name="FAZ_NOME">SÃO JOSÉ</SimpleData>
+		<SimpleData name="TALHAO">1016</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="ACIONISTA">ISABEL TENÓRIO</SimpleData>
+		<SimpleData name="CODE"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.2599187964335,-9.81781783355115,0 -36.2603751153223,-9.81897492771777,0 -36.2605780983779,-9.81958387716221,0 -36.2612560622667,-9.81876780799564,0 -36.2624009236555,-9.81739549910684,0 -36.2624243486555,-9.81736781855127,0 -36.2625167494888,-9.81726109244017,0 -36.2625147739333,-9.81713663688465,0 -36.2624778658777,-9.81628774882912,0 -36.2620624386555,-9.81652896410687,0 -36.2617331936556,-9.81672651160685,0 -36.2617011061556,-9.81674576438461,0 -36.261096846989,-9.81710831882901,0 -36.2604316086557,-9.8174945860512,0 -36.259961585878,-9.81777232688446,0 -36.2599221172668,-9.81781179521777,0 -36.2599187964335,-9.81781783355115,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

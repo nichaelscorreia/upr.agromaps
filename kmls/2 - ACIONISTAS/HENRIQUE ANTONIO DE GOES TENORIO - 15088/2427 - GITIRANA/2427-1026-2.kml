@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="GITIRANA_TALHAO_1026_ID_62" id="GITIRANA_TALHAO_1026_ID_62">
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="ACIONISTA" type="string"></SimpleField>
+	<SimpleField name="CODE" type="string"></SimpleField>
+</Schema>
+<Folder><name>GITIRANA_TALHAO_1026_ID_62</name>
+  <Placemark id="GITIRANA_TALHAO_1026_ID_62.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#GITIRANA_TALHAO_1026_ID_62">
+		<SimpleData name="ID">62</SimpleData>
+		<SimpleData name="AREA_TOTAL">6.18</SimpleData>
+		<SimpleData name="FAZENDA">1</SimpleData>
+		<SimpleData name="FAZ_NOME">GITIRANA</SimpleData>
+		<SimpleData name="TALHAO">1026</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="ACIONISTA">HENRIQUE TENÓRIO</SimpleData>
+		<SimpleData name="CODE"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.1912464840671,-9.8432084557015,0 -36.191614553739,-9.8421914305527,0 -36.1891873258482,-9.84139690237104,0 -36.1885041989899,-9.84328443015623,0 -36.1885118211135,-9.84328702031852,0 -36.1886729241606,-9.84333773235235,0 -36.1888773946766,-9.84340619313475,0 -36.1891216032325,-9.84348456774763,0 -36.189271787748,-9.84353723477415,0 -36.1894558140888,-9.84359673095993,0 -36.1896282835283,-9.84365148165409,0 -36.1898589710951,-9.84372387267473,0 -36.1900445710185,-9.84378575383682,0 -36.1902202902305,-9.84384578303098,0 -36.1904577466974,-9.84392149343845,0 -36.1907368518614,-9.84401507496198,0 -36.1908553906417,-9.84405469955937,0 -36.1912352298547,-9.8432328075379,0 -36.1912464840671,-9.8432084557015,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

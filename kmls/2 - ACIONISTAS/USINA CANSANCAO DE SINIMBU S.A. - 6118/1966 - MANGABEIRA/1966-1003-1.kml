@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="MANGABEIRA_TALHAO_1003_ID_476" id="MANGABEIRA_TALHAO_1003_ID_476">
+	<SimpleField name="TALHAO" type="string"></SimpleField>
+	<SimpleField name="FAZENDA" type="string"></SimpleField>
+	<SimpleField name="ZONA" type="string"></SimpleField>
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+	<SimpleField name="CODE" type="string"></SimpleField>
+</Schema>
+<Folder><name>MANGABEIRA_TALHAO_1003_ID_476</name>
+  <Placemark id="MANGABEIRA_TALHAO_1003_ID_476.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#MANGABEIRA_TALHAO_1003_ID_476">
+		<SimpleData name="TALHAO">1003</SimpleData>
+		<SimpleData name="FAZENDA">2655</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="ID">476</SimpleData>
+		<SimpleData name="AREA_TOTAL">15.48</SimpleData>
+		<SimpleData name="FAZ_NOME">MANGABEIRA</SimpleData>
+		<SimpleData name="CODE"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.1209963672234,-9.96095479641568,0 -36.1247670985279,-9.96685038230375,0 -36.1247558234016,-9.96007533399758,0 -36.1209963672234,-9.96095479641568,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

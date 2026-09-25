@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>1003.kml</name>
+  <StyleMap id="FFFF4000">
+    <Pair>
+      <key>normal</key>
+      <styleUrl>#s_FFFF4000</styleUrl>
+    </Pair>
+    <Pair>
+      <key>highlight</key>
+      <styleUrl>#s_FFFF4000_hl</styleUrl>
+    </Pair>
+  </StyleMap>
+  <Style id="s_FFFF4000">
+   <IconStyle>
+      <scale>1.1</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/pushpin/agrocad.png</href>
+      </Icon>
+      <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+    </IconStyle>
+    <LineStyle>
+      <color>FFFF4000</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>40ffffff</color>
+      <fill>1</fill>
+    </PolyStyle>
+  </Style>
+  <Style id="s_FFFF4000_hl">
+    <IconStyle>
+      <scale>1.3</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/pushpin/agrocad.png</href>
+      </Icon>
+      <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+    </IconStyle>
+    <LineStyle>
+      <color>ff000000</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>40ffffff</color>
+      <fill>1</fill>
+    </PolyStyle>
+  </Style>
+  <Placemark>
+    <name>AgroCAD: 2860E0</name>
+    <styleUrl>FFFF4000</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+           -36.31346739200065,-9.83346628963496 -36.31451545863889,-9.83270342833138 -36.31551821371015,-9.83405290394306 -36.31540104080138,-9.83414298898052 -36.31510795366241,-9.83439671715413 -36.31484281329755,-9.83461513774382 -36.31454394194912,-9.83479218135872 -36.31448012709306,-9.83482920348854 -36.31346739200065,-9.83346628963496 -36.31346739200065,-9.83346628963496
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>AgroCAD: 2860DF</name>
+    <styleUrl>FFFF4000</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+           -36.31155642816867,-9.83329983605154 -36.31148569059069,-9.83302581898277 -36.31142482724828,-9.83275694015871 -36.31135480518530,-9.83249567455349 -36.31127234705513,-9.83216398017419 -36.31203948986486,-9.83160555389607 -36.31444849627005,-9.83484755407279 -36.31419315804822,-9.83499568803116 -36.31405056095698,-9.83509365580992 -36.31371864005806,-9.83526564624343 -36.31340776370385,-9.83541626594439 -36.31309506380615,-9.83556229945628 -36.31276062328937,-9.83564630882456 -36.31238777813390,-9.83572343650019 -36.31211368219072,-9.83576084662965 -36.31201411616301,-9.83576925582918 -36.31208311764723,-9.83564620403058 -36.31209705945532,-9.83546904365617 -36.31203899578872,-9.83519799575657 -36.31196621929134,-9.83491450272510 -36.31193715509102,-9.83477441288714 -36.31186677689673,-9.83452605719748 -36.31179850633658,-9.83425516756971 -36.31171334580262,-9.83389735204935 -36.31162971099494,-9.83359156518937 -36.31155642816867,-9.83329983605154 -36.31155642816867,-9.83329983605154
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>AgroCAD: 2860DE</name>
+    <styleUrl>FFFF4000</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+           -36.31276760119748,-9.83252452193362 -36.31381566529943,-9.83176166240226 -36.31449384040565,-9.83267433508536 -36.31344577384578,-9.83343719633435 -36.31276760119748,-9.83252452193362 -36.31276760119748,-9.83252452193362
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>AgroCAD: 2860E1</name>
+    <styleUrl>FFFF4000</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+           -36.31583495573702,-9.83169815967903 -36.31452321767902,-9.83265295199626 -36.31384504250391,-9.83174027936127 -36.31552642363184,-9.83051642768778 -36.31559778623021,-9.83079099214401 -36.31567632972590,-9.83109353477357 -36.31575652869091,-9.83139611587526 -36.31582004839962,-9.83164539995531 -36.31583074607400,-9.83168217761540 -36.31583495573702,-9.83169815967903 -36.31583495573702,-9.83169815967903
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>AgroCAD: 2860DD</name>
+    <styleUrl>FFFF4000</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+           -36.31206886625137,-9.83158416985994 -36.31311689663810,-9.83082127013290 -36.31379404717864,-9.83173256914299 -36.31274598315503,-9.83249542861943 -36.31206886625137,-9.83158416985994 -36.31206886625137,-9.83158416985994
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>AgroCAD: 2860E2</name>
+    <styleUrl>FFFF4000</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+           -36.31551662571304,-9.83047873060919 -36.31382342438091,-9.83171118610338 -36.31314627289753,-9.83079988596488 -36.31316834640655,-9.83078381776042 -36.31520589461587,-9.82930167658526 -36.31521513668432,-9.82933636232353 -36.31527928082324,-9.82958479090596 -36.31536036828388,-9.82988622631981 -36.31543320172241,-9.83017077479612 -36.31550547912855,-9.83043369202575 -36.31551435043615,-9.83046997657682 -36.31551662571304,-9.83047873060919 -36.31551662571304,-9.83047873060919
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>AgroCAD: 2860E3</name>
+    <styleUrl>FFFF4000</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+           -36.31584486397658,-9.83173577649111 -36.31593964080796,-9.83209559824561 -36.31600797766246,-9.83236198500178 -36.31608045833615,-9.83264553065764 -36.31615371018856,-9.83293135136201 -36.31622695787662,-9.83321344182246 -36.31629224006426,-9.83346447563278 -36.31628974143521,-9.83347157080409 -36.31599510267005,-9.83369203782102 -36.31567659013961,-9.83393114059322 -36.31554702227123,-9.83403075528947 -36.31454483591447,-9.83268204524032 -36.31584486397658,-9.83173577649111 -36.31584486397658,-9.83173577649111
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+</Document>
+</kml>

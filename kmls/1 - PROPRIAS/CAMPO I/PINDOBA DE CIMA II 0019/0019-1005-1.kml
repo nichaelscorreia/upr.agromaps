@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>1005.kml</name>
+  <StyleMap id="FFFF4000">
+    <Pair>
+      <key>normal</key>
+      <styleUrl>#s_FFFF4000</styleUrl>
+    </Pair>
+    <Pair>
+      <key>highlight</key>
+      <styleUrl>#s_FFFF4000_hl</styleUrl>
+    </Pair>
+  </StyleMap>
+  <Style id="s_FFFF4000">
+   <IconStyle>
+      <scale>1.1</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/pushpin/agrocad.png</href>
+      </Icon>
+      <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+    </IconStyle>
+    <LineStyle>
+      <color>FFFF4000</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>40ffffff</color>
+      <fill>1</fill>
+    </PolyStyle>
+  </Style>
+  <Style id="s_FFFF4000_hl">
+    <IconStyle>
+      <scale>1.3</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/pushpin/agrocad.png</href>
+      </Icon>
+      <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+    </IconStyle>
+    <LineStyle>
+      <color>ff000000</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>40ffffff</color>
+      <fill>1</fill>
+    </PolyStyle>
+  </Style>
+  <Placemark>
+    <name>AgroCAD: 9180</name>
+    <styleUrl>FFFF4000</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+           -36.28002928534828,-9.78091136764010 -36.28192699125917,-9.77973919582346 -36.28474122074673,-9.78200335630299 -36.28467221479980,-9.78200149749156 -36.28459504614860,-9.78199494557719 -36.28448496676723,-9.78198765472605 -36.28437436707438,-9.78197218015837 -36.28421107477780,-9.78196263013752 -36.28407731799383,-9.78196816251553 -36.28395161625885,-9.78197788818480 -36.28383795031500,-9.78198792857338 -36.28375535287418,-9.78199172440372 -36.28366694292176,-9.78198617218398 -36.28361324401825,-9.78198995157030 -36.28353155650817,-9.78201787869305 -36.28348969257536,-9.78203553862368 -36.28338262276391,-9.78207395451808 -36.28334595880982,-9.78210416824628 -36.28328812291055,-9.78217614495297 -36.28325070877592,-9.78223274256703 -36.28318484124060,-9.78233222797857 -36.28315128599202,-9.78235939543383 -36.28304907156431,-9.78242625118282 -36.28299326701543,-9.78244558043831 -36.28291570621134,-9.78247055768892 -36.28284854021079,-9.78248683590353 -36.28259364025670,-9.78235978872718 -36.28235914241515,-9.78226998369286 -36.28194167874951,-9.78211298523872 -36.28175593517181,-9.78204189784668 -36.28152663096602,-9.78195120025562 -36.28131403338309,-9.78187625727014 -36.28125170303165,-9.78184784392585 -36.28120152498597,-9.78181533256167 -36.28109014910810,-9.78169393203792 -36.28098488412422,-9.78158473784579 -36.28086038027485,-9.78151214864154 -36.28068632445979,-9.78140437628501 -36.28047419130473,-9.78125635758543 -36.28002928534828,-9.78091136764010
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>AgroCAD: 917F</name>
+    <styleUrl>FFFF4000</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+           -36.27881924078883,-9.77982921032482 -36.28064058065365,-9.77870421166107 -36.28189705723416,-9.77971511245391 -36.27999872543824,-9.78088767076769 -36.27966208454787,-9.78062663116567 -36.27938668392526,-9.78040726874730 -36.27930238385611,-9.78034111433547 -36.27881924078883,-9.77982921032482
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+</Document>
+</kml>

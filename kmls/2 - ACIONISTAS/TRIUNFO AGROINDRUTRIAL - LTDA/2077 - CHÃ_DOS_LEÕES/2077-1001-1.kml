@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="CHÃ_DOS_LEÕES_TALHAO_1001_ID_61" id="CHÃ_DOS_LEÕES_TALHAO_1001_ID_61">
+	<SimpleField name="CODE" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+</Schema>
+<Folder><name>CHÃ_DOS_LEÕES_TALHAO_1001_ID_61</name>
+  <Placemark id="CHÃ_DOS_LEÕES_TALHAO_1001_ID_61.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CHÃ_DOS_LEÕES_TALHAO_1001_ID_61">
+		<SimpleData name="CODE">62</SimpleData>
+		<SimpleData name="TALHAO">1001</SimpleData>
+		<SimpleData name="AREA_TOTAL">10.431</SimpleData>
+		<SimpleData name="FAZENDA">2077</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="FAZ_NOME">CHÃ DOS LEÕES</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.129383468211,-9.66556793964773 -36.1318802127107,-9.66533492011344 -36.1320309724615,-9.66491666456494 -36.1322464386946,-9.66437971636929 -36.1323609909704,-9.66409979672495 -36.1324300959336,-9.66399237770311 -36.1327093861173,-9.66381068343612 -36.1327481857707,-9.66376095320614 -36.1327823589333,-9.66370701408053 -36.1327800933364,-9.66365994663778 -36.132735446298,-9.66362233264449 -36.1326509699155,-9.66359020347813 -36.1316660552682,-9.6635685539623 -36.131236648866,-9.66353716796595 -36.1307392344543,-9.66340422766044 -36.1303906772195,-9.66331383268481 -36.1290382662367,-9.66293979673178 -36.1285118215286,-9.66297919218497 -36.128305668849,-9.66300109242577 -36.128114202786,-9.66305797282162 -36.127739222264,-9.66363299266292 -36.129383468211,-9.66556793964773</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

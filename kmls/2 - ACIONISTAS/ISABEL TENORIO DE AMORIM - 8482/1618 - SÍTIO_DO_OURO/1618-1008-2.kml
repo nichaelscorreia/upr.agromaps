@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="SÍTIO_DO_OURO_TALHAO_1008_ID_208" id="SÍTIO_DO_OURO_TALHAO_1008_ID_208">
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="ACIONISTA" type="string"></SimpleField>
+	<SimpleField name="CODE" type="string"></SimpleField>
+</Schema>
+<Folder><name>SÍTIO_DO_OURO_TALHAO_1008_ID_208</name>
+  <Placemark id="SÍTIO_DO_OURO_TALHAO_1008_ID_208.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SÍTIO_DO_OURO_TALHAO_1008_ID_208">
+		<SimpleData name="ID">208</SimpleData>
+		<SimpleData name="AREA_TOTAL">4.85</SimpleData>
+		<SimpleData name="FAZ_NOME">SÍTIO DO OURO</SimpleData>
+		<SimpleData name="TALHAO">1008</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="ACIONISTA">ISABEL TENÓRIO</SimpleData>
+		<SimpleData name="CODE"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.2572892543315,-9.81038104541034,0 -36.2575308486679,-9.8101791078623,0 -36.2576221196238,-9.81008886571888,0 -36.2576650881567,-9.81002024145847,0 -36.2576790655208,-9.80998436877383,0 -36.2576940830618,-9.8099505012103,0 -36.2577412936611,-9.8099043628827,0 -36.2577942439859,-9.8098702963953,0 -36.2578910667306,-9.80984262931181,0 -36.2579596935217,-9.80980974675107,0 -36.2581536928516,-9.80965576683591,0 -36.2573138318821,-9.80572390831166,0 -36.2564481434358,-9.80644328235629,0 -36.2572892543315,-9.81038104541034,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

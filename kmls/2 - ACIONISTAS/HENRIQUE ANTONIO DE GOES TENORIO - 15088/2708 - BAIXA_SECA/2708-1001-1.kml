@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="BAIXA_SECA_TALHAO_1001_ID_307" id="BAIXA_SECA_TALHAO_1001_ID_307">
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="ACIONISTA" type="string"></SimpleField>
+	<SimpleField name="CODE" type="string"></SimpleField>
+</Schema>
+<Folder><name>BAIXA_SECA_TALHAO_1001_ID_307</name>
+  <Placemark id="BAIXA_SECA_TALHAO_1001_ID_307.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BAIXA_SECA_TALHAO_1001_ID_307">
+		<SimpleData name="ID">307</SimpleData>
+		<SimpleData name="AREA_TOTAL">7.27</SimpleData>
+		<SimpleData name="FAZ_NOME">BAIXA SECA</SimpleData>
+		<SimpleData name="TALHAO">1001</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="ACIONISTA">HENRIQUE TENÓRIO</SimpleData>
+		<SimpleData name="CODE"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.3833444008943,-9.71836081678722,0 -36.3838686020831,-9.71869637666369,0 -36.3844839074062,-9.71914322528787,0 -36.3850638656029,-9.71962574016047,0 -36.3856341125715,-9.72012460560032,0 -36.3860200886856,-9.7205335630657,0 -36.3861801639805,-9.72070812474226,0 -36.3866275320583,-9.72131577000034,0 -36.3871716093838,-9.72201747375469,0 -36.3874905145013,-9.72240996199161,0 -36.3879839512615,-9.72207529401721,0 -36.3883774491196,-9.72184229848741,0 -36.3846706099547,-9.71761402958578,0 -36.3833444008943,-9.71836081678722,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

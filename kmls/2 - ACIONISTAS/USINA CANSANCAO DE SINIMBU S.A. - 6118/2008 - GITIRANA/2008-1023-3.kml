@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="GITIRANA_TALHAO_1023_ID_426" id="GITIRANA_TALHAO_1023_ID_426">
+	<SimpleField name="TALHAO" type="string"></SimpleField>
+	<SimpleField name="FAZENDA" type="string"></SimpleField>
+	<SimpleField name="ZONA" type="string"></SimpleField>
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+	<SimpleField name="CODE" type="string"></SimpleField>
+</Schema>
+<Folder><name>GITIRANA_TALHAO_1023_ID_426</name>
+  <Placemark id="GITIRANA_TALHAO_1023_ID_426.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#GITIRANA_TALHAO_1023_ID_426">
+		<SimpleData name="TALHAO">1023</SimpleData>
+		<SimpleData name="FAZENDA">2427</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="ID">426</SimpleData>
+		<SimpleData name="AREA_TOTAL">6.00</SimpleData>
+		<SimpleData name="FAZ_NOME">GITIRANA</SimpleData>
+		<SimpleData name="CODE"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.1878080557823,-9.83879340139697,0 -36.1902391449054,-9.83957366209928,0 -36.1907028279476,-9.83829242852448,0 -36.1909142741157,-9.83770816252719,0 -36.1885230465638,-9.83695469606079,0 -36.1885072808611,-9.83701266014623,0 -36.1884460935417,-9.83722592367278,0 -36.1884153280909,-9.83735763633107,0 -36.1883917010336,-9.83748107556737,0 -36.1883475910123,-9.83761013095531,0 -36.1882661968743,-9.83779392309456,0 -36.1881725748749,-9.83798774545661,0 -36.1880668796613,-9.83818026094924,0 -36.1879956106213,-9.83831352691028,0 -36.187928156413,-9.83846413168308,0 -36.1878843687613,-9.83858287911854,0 -36.1878080557823,-9.83879340139697,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

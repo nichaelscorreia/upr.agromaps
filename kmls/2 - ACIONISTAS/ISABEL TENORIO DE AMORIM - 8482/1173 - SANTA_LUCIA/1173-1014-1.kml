@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="SANTA_LUCIA_TALHAO_1014_ID_154" id="SANTA_LUCIA_TALHAO_1014_ID_154">
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="ACIONISTA" type="string"></SimpleField>
+	<SimpleField name="CODE" type="string"></SimpleField>
+</Schema>
+<Folder><name>SANTA_LUCIA_TALHAO_1014_ID_154</name>
+  <Placemark id="SANTA_LUCIA_TALHAO_1014_ID_154.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SANTA_LUCIA_TALHAO_1014_ID_154">
+		<SimpleData name="ID">154</SimpleData>
+		<SimpleData name="AREA_TOTAL">29.82</SimpleData>
+		<SimpleData name="FAZENDA">1217</SimpleData>
+		<SimpleData name="FAZ_NOME">SANTA LUCIA</SimpleData>
+		<SimpleData name="TALHAO">1014</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="ACIONISTA">ISABEL TENÓRIO</SimpleData>
+		<SimpleData name="CODE"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.4309762966614,-9.72892239166551,0 -36.4320798150956,-9.73377063998189,0 -36.4322510081205,-9.7337613816398,0 -36.4340964648989,-9.73367554641717,0 -36.4355766993479,-9.73361118837952,0 -36.4357531391429,-9.73359631848407,0 -36.4355818436483,-9.73303348796213,0 -36.4351527214233,-9.73153155987855,0 -36.4347021871635,-9.73011559480935,0 -36.4341656903235,-9.72842026449117,0 -36.4335433658787,-9.72631723665575,0 -36.4333043158668,-9.72550446735086,0 -36.4315677769516,-9.72694856181764,0 -36.4306826126654,-9.72768158133702,0 -36.4309762966614,-9.72892239166551,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

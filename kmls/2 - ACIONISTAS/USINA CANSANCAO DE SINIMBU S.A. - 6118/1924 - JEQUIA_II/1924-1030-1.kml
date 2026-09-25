@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="JEQUIA_II_TALHAO_1030_ID_1092" id="JEQUIA_II_TALHAO_1030_ID_1092">
+	<SimpleField name="TALHAO" type="string"></SimpleField>
+	<SimpleField name="FAZENDA" type="string"></SimpleField>
+	<SimpleField name="ZONA" type="string"></SimpleField>
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+	<SimpleField name="CODE" type="string"></SimpleField>
+</Schema>
+<Folder><name>JEQUIA_II_TALHAO_1030_ID_1092</name>
+  <Placemark id="JEQUIA_II_TALHAO_1030_ID_1092.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#JEQUIA_II_TALHAO_1030_ID_1092">
+		<SimpleData name="TALHAO">1030</SimpleData>
+		<SimpleData name="FAZENDA">1924</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="ID">1092</SimpleData>
+		<SimpleData name="AREA_TOTAL">13.33</SimpleData>
+		<SimpleData name="FAZ_NOME">JEQUIA II</SimpleData>
+		<SimpleData name="CODE"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.1855804851266,-9.89813329485299,0 -36.1860700467022,-9.89839174561302,0 -36.1861116565014,-9.89829154145111,0 -36.186152631031,-9.89819097185548,0 -36.1862304647405,-9.89798842743044,0 -36.1863754050577,-9.89761489180044,0 -36.1864080152448,-9.89752991786932,0 -36.186439433441,-9.89744774901067,0 -36.1864901566831,-9.89731780465953,0 -36.1865359947282,-9.89719761454779,0 -36.1865864666711,-9.89706480586082,0 -36.1866505828151,-9.89689738000146,0 -36.1866872826862,-9.89680056235503,0 -36.18672797532,-9.89669638159341,0 -36.1868154440445,-9.89647607054062,0 -36.186861167477,-9.89635982654394,0 -36.1870029112311,-9.89599293327653,0 -36.1871961708804,-9.89548486389866,0 -36.1872940447402,-9.89523165428314,0 -36.1873876153604,-9.89497924137549,0 -36.1874345090962,-9.89485411802383,0 -36.1874807998785,-9.89473414089399,0 -36.1886841950678,-9.89146015966754,0 -36.1883803104983,-9.89137386289905,0 -36.1877799707386,-9.89125251679791,0 -36.1868980857426,-9.89112873919149,0 -36.1867080588172,-9.89107131024336,0 -36.1862659882336,-9.89102054171658,0 -36.1855804851266,-9.89813329485299,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="NOVO_TALHAO_1095_ID_1274" id="NOVO_TALHAO_1095_ID_1274">
+	<SimpleField name="TALHAO" type="string"></SimpleField>
+	<SimpleField name="FAZENDA" type="string"></SimpleField>
+	<SimpleField name="ZONA" type="string"></SimpleField>
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+	<SimpleField name="CODE" type="string"></SimpleField>
+</Schema>
+<Folder><name>NOVO_TALHAO_1095_ID_1274</name>
+  <Placemark id="NOVO_TALHAO_1095_ID_1274.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#NOVO_TALHAO_1095_ID_1274">
+		<SimpleData name="TALHAO">1095</SimpleData>
+		<SimpleData name="FAZENDA">2578</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="ID">1274</SimpleData>
+		<SimpleData name="AREA_TOTAL">5.69</SimpleData>
+		<SimpleData name="FAZ_NOME">NOVO</SimpleData>
+		<SimpleData name="CODE"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.1487578603929,-9.98006637641793,0 -36.1493538619424,-9.97367717172813,0 -36.1486175731469,-9.97380949404365,0 -36.1483182266178,-9.97653009078887,0 -36.148171712662,-9.97776965209701,0 -36.1480489405362,-9.97909904037594,0 -36.1481026677529,-9.97937985482786,0 -36.148175032227,-9.97963336602415,0 -36.1482984524368,-9.9798449601294,0 -36.1484574080161,-9.980004294708,0 -36.1487578603929,-9.98006637641793,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

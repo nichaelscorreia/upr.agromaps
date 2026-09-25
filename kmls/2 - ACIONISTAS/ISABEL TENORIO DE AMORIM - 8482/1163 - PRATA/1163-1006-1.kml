@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="PRATA_TALHAO_1006_ID_256" id="PRATA_TALHAO_1006_ID_256">
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="ACIONISTA" type="string"></SimpleField>
+	<SimpleField name="CODE" type="string"></SimpleField>
+</Schema>
+<Folder><name>PRATA_TALHAO_1006_ID_256</name>
+  <Placemark id="PRATA_TALHAO_1006_ID_256.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#PRATA_TALHAO_1006_ID_256">
+		<SimpleData name="ID">256</SimpleData>
+		<SimpleData name="AREA_TOTAL">3.61</SimpleData>
+		<SimpleData name="FAZ_NOME">PRATA</SimpleData>
+		<SimpleData name="TALHAO">1006</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="ACIONISTA">ISABEL TENÓRIO</SimpleData>
+		<SimpleData name="CODE"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.2733757764324,-9.81716554327409,0 -36.2737192142101,-9.81783095410743,0 -36.2741201368971,-9.81863280114607,0 -36.2741280681175,-9.81864742237596,0 -36.2741450447656,-9.81863849549633,0 -36.2746387350434,-9.81838091827414,0 -36.2748958400434,-9.81825236605195,0 -36.2751379028211,-9.81811114605195,0 -36.2746953700434,-9.81726822632974,0 -36.2738730961546,-9.81577126410749,0 -36.2736900661546,-9.81588095716307,0 -36.2734112150435,-9.8160096577186,0 -36.2731322211546,-9.8161813460519,0 -36.2729040808769,-9.8162850460519,0 -36.2733757764324,-9.81716554327409,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

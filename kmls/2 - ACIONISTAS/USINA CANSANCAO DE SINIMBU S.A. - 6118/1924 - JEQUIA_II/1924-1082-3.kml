@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="JEQUIA_II_TALHAO_1082_ID_1101" id="JEQUIA_II_TALHAO_1082_ID_1101">
+	<SimpleField name="TALHAO" type="string"></SimpleField>
+	<SimpleField name="FAZENDA" type="string"></SimpleField>
+	<SimpleField name="ZONA" type="string"></SimpleField>
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+	<SimpleField name="CODE" type="string"></SimpleField>
+</Schema>
+<Folder><name>JEQUIA_II_TALHAO_1082_ID_1101</name>
+  <Placemark id="JEQUIA_II_TALHAO_1082_ID_1101.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#JEQUIA_II_TALHAO_1082_ID_1101">
+		<SimpleData name="TALHAO">1082</SimpleData>
+		<SimpleData name="FAZENDA">1924</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="ID">1101</SimpleData>
+		<SimpleData name="AREA_TOTAL">33.26</SimpleData>
+		<SimpleData name="FAZ_NOME">JEQUIA II</SimpleData>
+		<SimpleData name="CODE"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.1729601406585,-9.91698930513736,0 -36.1722401149671,-9.92329569118177,0 -36.1722370591815,-9.92331939621449,0 -36.1722340323128,-9.92334318225673,0 -36.1722310055352,-9.92336696820921,0 -36.1722301216407,-9.92339909987033,0 -36.1722303093706,-9.92343540425179,0 -36.1722304970986,-9.92347170872356,0 -36.1722306215201,-9.92349577037129,0 -36.1722463187354,-9.92357376758152,0 -36.1764968714242,-9.92196466858513,0 -36.1773398367638,-9.91532758932835,0 -36.1729601406585,-9.91698930513736,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ARVORE_COMPRIDA_TALHAO_1003_ID_148" id="ARVORE_COMPRIDA_TALHAO_1003_ID_148">
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="ACIONISTA" type="string"></SimpleField>
+	<SimpleField name="CODE" type="string"></SimpleField>
+</Schema>
+<Folder><name>ARVORE_COMPRIDA_TALHAO_1003_ID_148</name>
+  <Placemark id="ARVORE_COMPRIDA_TALHAO_1003_ID_148.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#ARVORE_COMPRIDA_TALHAO_1003_ID_148">
+		<SimpleData name="ID">148</SimpleData>
+		<SimpleData name="AREA_TOTAL">12.37</SimpleData>
+		<SimpleData name="FAZENDA">2775</SimpleData>
+		<SimpleData name="FAZ_NOME">ARVORE COMPRIDA</SimpleData>
+		<SimpleData name="TALHAO">1003</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="ACIONISTA">ISABEL TENÓRIO</SimpleData>
+		<SimpleData name="CODE"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.3723406070244,-9.75729027527539,0 -36.372372204245,-9.76260053512851,0 -36.3755096367186,-9.76281608892977,0 -36.3755141207734,-9.76275186231465,0 -36.3755850549179,-9.76173849055523,0 -36.3755894284958,-9.76171146501002,0 -36.3750789932703,-9.76160453422563,0 -36.3745615917974,-9.76146683599472,0 -36.3747123558907,-9.76104074882669,0 -36.3749265458585,-9.76042561540103,0 -36.3750719372474,-9.7600088563037,0 -36.3746731496198,-9.75981533052324,0 -36.3742139064572,-9.75959237637626,0 -36.3737430380995,-9.75936419255455,0 -36.3732624389105,-9.75913056069116,0 -36.3732390291232,-9.75908862807949,0 -36.3731621833179,-9.75885287410852,0 -36.3730785910958,-9.75861390798492,0 -36.3730470443964,-9.75827451310844,0 -36.3730415614669,-9.7577892418981,0 -36.3723406070244,-9.75729027527539,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

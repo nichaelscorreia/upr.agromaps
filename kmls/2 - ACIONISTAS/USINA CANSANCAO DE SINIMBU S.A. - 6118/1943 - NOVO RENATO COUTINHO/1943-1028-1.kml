@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="NOVO_TALHAO_1028_ID_1161" id="NOVO_TALHAO_1028_ID_1161">
+	<SimpleField name="TALHAO" type="string"></SimpleField>
+	<SimpleField name="FAZENDA" type="string"></SimpleField>
+	<SimpleField name="ZONA" type="string"></SimpleField>
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+	<SimpleField name="CODE" type="string"></SimpleField>
+</Schema>
+<Folder><name>NOVO_TALHAO_1028_ID_1161</name>
+  <Placemark id="NOVO_TALHAO_1028_ID_1161.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#NOVO_TALHAO_1028_ID_1161">
+		<SimpleData name="TALHAO">1028</SimpleData>
+		<SimpleData name="FAZENDA">1943</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="ID">1161</SimpleData>
+		<SimpleData name="AREA_TOTAL">5.61</SimpleData>
+		<SimpleData name="FAZ_NOME">NOVO</SimpleData>
+		<SimpleData name="CODE"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.144376410136,-9.9079894837973,0 -36.1456386591543,-9.91038367916293,0 -36.1457311624265,-9.91025139341641,0 -36.1457962512364,-9.91015147902771,0 -36.145878441393,-9.91002826710075,0 -36.1460403662518,-9.90985901709367,0 -36.1461785026285,-9.9097514418482,0 -36.1463202453631,-9.90962350611869,0 -36.146441379579,-9.90949879352859,0 -36.1465215603057,-9.90934994296532,0 -36.1466910945364,-9.90918146222384,0 -36.1467705989677,-9.90911077058801,0 -36.146859429731,-9.90899006971629,0 -36.1469151670697,-9.9088633238869,0 -36.1469840248868,-9.90879894553133,0 -36.1470662607161,-9.90876716336526,0 -36.1470733092065,-9.90876368548716,0 -36.146166571565,-9.90707912589727,0 -36.144376410136,-9.9079894837973,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

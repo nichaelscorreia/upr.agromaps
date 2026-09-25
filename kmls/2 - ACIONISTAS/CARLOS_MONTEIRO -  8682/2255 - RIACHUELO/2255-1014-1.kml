@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="RIACHUELO_TALHAO_1014_ID_299" id="RIACHUELO_TALHAO_1014_ID_299">
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="ACIONISTA" type="string"></SimpleField>
+	<SimpleField name="CODE" type="string"></SimpleField>
+</Schema>
+<Folder><name>RIACHUELO_TALHAO_1014_ID_299</name>
+  <Placemark id="RIACHUELO_TALHAO_1014_ID_299.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#RIACHUELO_TALHAO_1014_ID_299">
+		<SimpleData name="ID">299</SimpleData>
+		<SimpleData name="AREA_TOTAL">21.84</SimpleData>
+		<SimpleData name="FAZ_NOME">RIACHUELO</SimpleData>
+		<SimpleData name="TALHAO">1014</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="ACIONISTA">Dr. CARLOS MONTEIRO</SimpleData>
+		<SimpleData name="CODE"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.2230477942278,-9.82790712458552,0 -36.2209032156857,-9.82945886567642,0 -36.2209495344933,-9.82952359418946,0 -36.2210914970801,-9.82968065150247,0 -36.2218392427072,-9.83051677661498,0 -36.222415298832,-9.83116228254798,0 -36.2229387836383,-9.8317530272794,0 -36.2232128729475,-9.83205997195467,0 -36.2235094716792,-9.83239280967139,0 -36.2238083441491,-9.83273039069958,0 -36.2242467618366,-9.83321567960781,0 -36.224728496374,-9.83375151536664,0 -36.2252434867822,-9.83434790850236,0 -36.2252601725957,-9.83436475669655,0 -36.225310917086,-9.83435656982622,0 -36.225432072236,-9.83430157607614,0 -36.2256065154172,-9.8342275957264,0 -36.225792359791,-9.83414883120172,0 -36.2259870070083,-9.83406966879362,0 -36.226165100216,-9.83399510759542,0 -36.2263241968594,-9.83392514531861,0 -36.2264741220251,-9.83385849327551,0 -36.2266356390785,-9.83378610293673,0 -36.2268125523184,-9.83370950229903,0 -36.2269823009452,-9.83363148368842,0 -36.2271453105752,-9.83355375809092,0 -36.2273045763237,-9.83347439553038,0 -36.2274604593858,-9.83339584030362,0 -36.2277506673326,-9.8332522265919,0 -36.2230477942278,-9.82790712458552,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

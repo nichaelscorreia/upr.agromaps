@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="CAMPO_VERDE_TALHAO_1011_ID_136" id="CAMPO_VERDE_TALHAO_1011_ID_136">
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="ACIONISTA" type="string"></SimpleField>
+	<SimpleField name="CODE" type="string"></SimpleField>
+</Schema>
+<Folder><name>CAMPO_VERDE_TALHAO_1011_ID_136</name>
+  <Placemark id="CAMPO_VERDE_TALHAO_1011_ID_136.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CAMPO_VERDE_TALHAO_1011_ID_136">
+		<SimpleData name="ID">136</SimpleData>
+		<SimpleData name="AREA_TOTAL">3.21</SimpleData>
+		<SimpleData name="FAZENDA">2712</SimpleData>
+		<SimpleData name="FAZ_NOME">CAMPO VERDE</SimpleData>
+		<SimpleData name="TALHAO">1011</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="ACIONISTA">HENRIQUE TENÓRIO</SimpleData>
+		<SimpleData name="CODE"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.3587049563274,-9.7226507502496,0 -36.357760164809,-9.72311349698286,0 -36.3578040681708,-9.72320035176259,0 -36.3584670375327,-9.72457148281102,0 -36.3587082316851,-9.72510615447687,0 -36.3587692864965,-9.72526046043243,0 -36.3598552718094,-9.7251948565455,0 -36.3587049563274,-9.7226507502496,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

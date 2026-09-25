@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="CHÃ_DOS_LEÕES_TALHAO_1080_ID_183" id="CHÃ_DOS_LEÕES_TALHAO_1080_ID_183">
+	<SimpleField name="CODE" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+</Schema>
+<Folder><name>CHÃ_DOS_LEÕES_TALHAO_1080_ID_183</name>
+  <Placemark id="CHÃ_DOS_LEÕES_TALHAO_1080_ID_183.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CHÃ_DOS_LEÕES_TALHAO_1080_ID_183">
+		<SimpleData name="CODE">184</SimpleData>
+		<SimpleData name="TALHAO">1080</SimpleData>
+		<SimpleData name="AREA_TOTAL">1.612</SimpleData>
+		<SimpleData name="FAZENDA">2077</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="FAZ_NOME">CHÃ DOS LEÕES</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.1001688348487,-9.68202982184494 -36.099468301072,-9.6825894325972 -36.099627581673,-9.68259623199591 -36.0998129826417,-9.682457844126 -36.0999792017196,-9.68234206381283 -36.1001000572823,-9.68231436609273 -36.1001938632566,-9.68240220650481 -36.1002590140697,-9.68244425602453 -36.1003460492911,-9.68240477053465 -36.1004930809736,-9.68243123424988 -36.1005948482183,-9.68253407332793 -36.100642707152,-9.68269802005506 -36.1006857930884,-9.68287685173833 -36.1008390678456,-9.68294816163357 -36.101477131662,-9.68303105972266 -36.1020670644374,-9.68311343728013 -36.102256765708,-9.68315688277055 -36.1005778480629,-9.68170751866017 -36.1001688348487,-9.68202982184494</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

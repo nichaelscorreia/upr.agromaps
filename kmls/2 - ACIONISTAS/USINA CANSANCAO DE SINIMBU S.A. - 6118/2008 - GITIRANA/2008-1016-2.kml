@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="GITIRANA_TALHAO_1016_ID_423" id="GITIRANA_TALHAO_1016_ID_423">
+	<SimpleField name="TALHAO" type="string"></SimpleField>
+	<SimpleField name="FAZENDA" type="string"></SimpleField>
+	<SimpleField name="ZONA" type="string"></SimpleField>
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+	<SimpleField name="CODE" type="string"></SimpleField>
+</Schema>
+<Folder><name>GITIRANA_TALHAO_1016_ID_423</name>
+  <Placemark id="GITIRANA_TALHAO_1016_ID_423.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#GITIRANA_TALHAO_1016_ID_423">
+		<SimpleData name="TALHAO">1016</SimpleData>
+		<SimpleData name="FAZENDA">2427</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="ID">423</SimpleData>
+		<SimpleData name="AREA_TOTAL">3.84</SimpleData>
+		<SimpleData name="FAZ_NOME">GITIRANA</SimpleData>
+		<SimpleData name="CODE"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.1955196090364,-9.83242259639723,0 -36.1975033601055,-9.83295055473565,0 -36.1975970920875,-9.83283389900968,0 -36.1977084056366,-9.83262478836517,0 -36.1978415349404,-9.83237089306937,0 -36.1978624236776,-9.83230149892726,0 -36.197867315773,-9.83223020245172,0 -36.1978504503239,-9.83217623396516,0 -36.1978175089143,-9.83212333364423,0 -36.1976975354985,-9.83197184065919,0 -36.1976563311131,-9.8318904492666,0 -36.1976480769774,-9.83180363535558,0 -36.1976686689769,-9.8317284239454,0 -36.1977165402233,-9.83158450536914,0 -36.1977754594525,-9.83148301970393,0 -36.1978722166872,-9.83142247294814,0 -36.1979441118121,-9.83142336772689,0 -36.1960200859012,-9.83095297505504,0 -36.1958773106201,-9.83138055460097,0 -36.1956600431949,-9.83201557718389,0 -36.1955196090364,-9.83242259639723,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

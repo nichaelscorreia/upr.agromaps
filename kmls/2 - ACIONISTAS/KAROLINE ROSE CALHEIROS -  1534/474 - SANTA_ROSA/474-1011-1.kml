@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="SANTA_ROSA_TALHAO_1011_ID_67" id="SANTA_ROSA_TALHAO_1011_ID_67">
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="ACIONISTA" type="string"></SimpleField>
+	<SimpleField name="CODE" type="string"></SimpleField>
+</Schema>
+<Folder><name>SANTA_ROSA_TALHAO_1011_ID_67</name>
+  <Placemark id="SANTA_ROSA_TALHAO_1011_ID_67.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SANTA_ROSA_TALHAO_1011_ID_67">
+		<SimpleData name="ID">67</SimpleData>
+		<SimpleData name="AREA_TOTAL">14.55</SimpleData>
+		<SimpleData name="FAZENDA">2422</SimpleData>
+		<SimpleData name="FAZ_NOME">SANTA ROSA</SimpleData>
+		<SimpleData name="TALHAO">1011</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="ACIONISTA">KAROLINE ROSE CALHEIROS</SimpleData>
+		<SimpleData name="CODE"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.3420740607916,-9.80949145387459,0 -36.3428869092625,-9.81258608133504,0 -36.3429194415211,-9.8125960589129,0 -36.3429567751673,-9.81259439266618,0 -36.3442106475772,-9.8122675552371,0 -36.3458132739981,-9.81183836126332,0 -36.3458408929506,-9.81182859456846,0 -36.3458585537569,-9.81182242950697,0 -36.3458588049907,-9.81174699931031,0 -36.3458570085016,-9.81172585582951,0 -36.3454234882156,-9.81015751174744,0 -36.3450363007302,-9.80872102289156,0 -36.3447146848296,-9.80753440853824,0 -36.3446933827332,-9.8074005545123,0 -36.3420740607916,-9.80949145387459,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

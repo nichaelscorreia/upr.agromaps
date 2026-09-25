@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="PRATA_TALHAO_1002_ID_252" id="PRATA_TALHAO_1002_ID_252">
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="ACIONISTA" type="string"></SimpleField>
+	<SimpleField name="CODE" type="string"></SimpleField>
+</Schema>
+<Folder><name>PRATA_TALHAO_1002_ID_252</name>
+  <Placemark id="PRATA_TALHAO_1002_ID_252.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#PRATA_TALHAO_1002_ID_252">
+		<SimpleData name="ID">252</SimpleData>
+		<SimpleData name="AREA_TOTAL">2.99</SimpleData>
+		<SimpleData name="FAZ_NOME">PRATA</SimpleData>
+		<SimpleData name="TALHAO">1002</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="ACIONISTA">ISABEL TENÓRIO</SimpleData>
+		<SimpleData name="CODE"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.2775601783765,-9.82263756049636,0 -36.2779465869875,-9.8234533124408,0 -36.2781181853209,-9.82381795938524,0 -36.2781232942097,-9.82382830716305,0 -36.2794049397652,-9.82344381382978,0 -36.279414480043,-9.82344041466311,0 -36.2790511133763,-9.82273963410757,0 -36.2785576908764,-9.82177424160755,0 -36.2784129755986,-9.8215113271631,0 -36.2783296347653,-9.82162825105198,0 -36.277769296432,-9.82205927994085,0 -36.277403393932,-9.82231756382972,0 -36.2773943811542,-9.82232254577416,0 -36.2775601783765,-9.82263756049636,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

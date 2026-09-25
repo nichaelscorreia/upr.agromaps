@@ -1,0 +1,50 @@
+{
+  "nichaelfilho@hotmail.com": {
+    "password_hash": "c09a915cc481c49d15f353a38c401854de54679de490108bdf1f6d053a56ce9b",
+    "user_id": "492c2114-f914-4ce1-9a57-ca7428b32ce4",
+    "name": "Nichael Filho",
+    "created_at": "2025-10-14T21:26:45.767615"
+  },
+  "user_teste_1788908361": {
+    "password_hash": "55a5e9e78207b4df8699d60886fa070079463547b095d1a05bc719bb4e6cd251",
+    "user_id": "d424c378-5639-420c-9621-c751c15f8634",
+    "name": "user_teste_1788908361",
+    "created_at": "2026-09-08T19:59:21.001461"
+  },
+  "user_teste_1788908483": {
+    "password_hash": "55a5e9e78207b4df8699d60886fa070079463547b095d1a05bc719bb4e6cd251",
+    "user_id": "7c3232d4-ad13-40e8-a4aa-26532311cba5",
+    "name": "user_teste_1788908483",
+    "created_at": "2026-09-08T20:01:23.171081"
+  },
+  "produtor_rural": {
+    "password_hash": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+    "user_id": "00e38c64-aa69-416f-93c7-621a2cb14ed9",
+    "name": "produtor_rural",
+    "created_at": "2026-09-08T20:01:34.400766"
+  },
+  "nichaelcorreia": {
+    "password_hash": "9678d4ab089f1273bcfd379731bb336aa53e7a0065892224c9d2cb4f009f8747",
+    "user_id": "dcecf87b-d922-401a-8bd3-dbb00724c8ea",
+    "name": "nichaelcorreia",
+    "created_at": "2026-09-08T20:02:54.678468"
+  },
+  "kml_test_user": {
+    "password_hash": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+    "user_id": "dc11ede1-9429-4a08-bb95-a34948c2cb71",
+    "name": "kml_test_user",
+    "created_at": "2026-09-08T20:13:10.575066"
+  },
+  "produtor_kml": {
+    "password_hash": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+    "user_id": "73db34ba-790f-402b-91a8-5d11caec693f",
+    "name": "produtor_kml",
+    "created_at": "2026-09-08T20:17:03.418340"
+  },
+  "batch_user": {
+    "password_hash": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+    "user_id": "d09b0899-96f4-40d6-aa1e-7cbc4c296ea2",
+    "name": "batch_user",
+    "created_at": "2026-09-08T20:20:43.451247"
+  }
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="BARRA_DA_PINDOBA_TALHAO_1008_ID_215" id="BARRA_DA_PINDOBA_TALHAO_1008_ID_215">
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="ACIONISTA" type="string"></SimpleField>
+	<SimpleField name="CODE" type="string"></SimpleField>
+</Schema>
+<Folder><name>BARRA_DA_PINDOBA_TALHAO_1008_ID_215</name>
+  <Placemark id="BARRA_DA_PINDOBA_TALHAO_1008_ID_215.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRA_DA_PINDOBA_TALHAO_1008_ID_215">
+		<SimpleData name="ID">215</SimpleData>
+		<SimpleData name="AREA_TOTAL">9.81</SimpleData>
+		<SimpleData name="FAZ_NOME">BARRA DA PINDOBA</SimpleData>
+		<SimpleData name="TALHAO">1008</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="ACIONISTA">ISABEL TENÓRIO</SimpleData>
+		<SimpleData name="CODE"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.2544899982019,-9.81018286676672,0 -36.2513545410954,-9.81282744163082,0 -36.2516799913557,-9.81392992962879,0 -36.2516704817086,-9.81393339095358,0 -36.2517238796061,-9.81411181303595,0 -36.25194052816,-9.81489894578456,0 -36.2519591966511,-9.81491456877133,0 -36.2519804773579,-9.81491153940446,0 -36.2550063831903,-9.81235938154807,0 -36.2548154762147,-9.81156606694832,0 -36.2544899982019,-9.81018286676672,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

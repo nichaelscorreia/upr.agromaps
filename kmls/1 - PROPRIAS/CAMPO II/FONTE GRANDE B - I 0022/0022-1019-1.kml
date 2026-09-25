@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>1019.kml</name>
+  <StyleMap id="FF0040FF">
+    <Pair>
+      <key>normal</key>
+      <styleUrl>#s_FF0040FF</styleUrl>
+    </Pair>
+    <Pair>
+      <key>highlight</key>
+      <styleUrl>#s_FF0040FF_hl</styleUrl>
+    </Pair>
+  </StyleMap>
+  <Style id="s_FF0040FF">
+   <IconStyle>
+      <scale>1.1</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/pushpin/agrocad.png</href>
+      </Icon>
+      <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+    </IconStyle>
+    <LineStyle>
+      <color>FF0040FF</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>40ffffff</color>
+      <fill>1</fill>
+    </PolyStyle>
+  </Style>
+  <Style id="s_FF0040FF_hl">
+    <IconStyle>
+      <scale>1.3</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/pushpin/agrocad.png</href>
+      </Icon>
+      <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+    </IconStyle>
+    <LineStyle>
+      <color>ff000000</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>40ffffff</color>
+      <fill>1</fill>
+    </PolyStyle>
+  </Style>
+  <Placemark>
+    <name>AgroCAD: 8204</name>
+    <styleUrl>FF0040FF</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+          <coordinates>
+           -36.23608932898722,-9.85736030253783 -36.23598360160178,-9.85713660711538 -36.23546851303816,-9.85607423680558 -36.23535428669947,-9.85581491252222 -36.23502761156856,-9.85624450939466 -36.23425070694263,-9.85721982930234 -36.23425802803439,-9.85724179256845 -36.23426083370603,-9.85725265871498 -36.23458559371413,-9.85729325370331 -36.23557198862933,-9.85735758379274 -36.23597756414830,-9.85737892986851 -36.23608932898722,-9.85736030253783
+          </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>AgroCAD: 8203</name>
+    <styleUrl>FF0040FF</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+          <coordinates>
+           -36.23197622040992,-9.85186526505938 -36.23228706434133,-9.85250512357753 -36.23293079517615,-9.85381404295078 -36.23351014914639,-9.85499420847228 -36.23438989290433,-9.85686098180801 -36.23439945505310,-9.85688734687425 -36.23421645721623,-9.85711708014279 -36.23421466868666,-9.85711171455407 -36.23393533906483,-9.85646710781480 -36.23337696818607,-9.85524298719248 -36.23303355154189,-9.85466347166291 -36.23262617746460,-9.85381656265582 -36.23205761682559,-9.85264725877308 -36.23181123991414,-9.85211165675811 -36.23174818778287,-9.85193884803804 -36.23180327480089,-9.85192354608219 -36.23191224697585,-9.85189085441024 -36.23197622040993,-9.85186526505938
+          </coordinates>
+    </LineString>
+  </Placemark>
+</Document>
+</kml>

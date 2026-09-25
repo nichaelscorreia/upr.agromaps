@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>1002.kml</name>
+  <StyleMap id="FFFF4000">
+    <Pair>
+      <key>normal</key>
+      <styleUrl>#s_FFFF4000</styleUrl>
+    </Pair>
+    <Pair>
+      <key>highlight</key>
+      <styleUrl>#s_FFFF4000_hl</styleUrl>
+    </Pair>
+  </StyleMap>
+  <Style id="s_FFFF4000">
+   <IconStyle>
+      <scale>1.1</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/pushpin/agrocad.png</href>
+      </Icon>
+      <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+    </IconStyle>
+    <LineStyle>
+      <color>FFFF4000</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>40ffffff</color>
+      <fill>1</fill>
+    </PolyStyle>
+  </Style>
+  <Style id="s_FFFF4000_hl">
+    <IconStyle>
+      <scale>1.3</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/pushpin/agrocad.png</href>
+      </Icon>
+      <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+    </IconStyle>
+    <LineStyle>
+      <color>ff000000</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>40ffffff</color>
+      <fill>1</fill>
+    </PolyStyle>
+  </Style>
+  <Placemark>
+    <name>AgroCAD: 2860F1</name>
+    <styleUrl>FFFF4000</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+           -36.30853470567724,-9.83415675754511 -36.30920467498431,-9.83505841389696 -36.30873438178824,-9.83540071420754 -36.30839014907202,-9.83526234344416 -36.30808781768038,-9.83516707200309 -36.30752405813601,-9.83523061206471 -36.30727814099546,-9.83514639954639 -36.30721838665294,-9.83511491045267 -36.30853470567724,-9.83415675754511 -36.30853470567724,-9.83415675754511
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>AgroCAD: 2860F0</name>
+    <styleUrl>FFFF4000</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+           -36.30856408247715,-9.83413537393678 -36.31120878671022,-9.83221024747019 -36.31128420175480,-9.83251361074391 -36.31135402812900,-9.83277414641936 -36.31141481830220,-9.83304270226950 -36.31148576667048,-9.83331753612260 -36.31150287860600,-9.83338565653428 -36.30923405272640,-9.83503703141721 -36.30856408247715,-9.83413537393678 -36.30856408247715,-9.83413537393678
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>AgroCAD: 2860F2</name>
+    <styleUrl>FFFF4000</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+           -36.31151239884646,-9.83342355537993 -36.31155917487451,-9.83360976463736 -36.31164269163961,-9.83391512016397 -36.31172768505227,-9.83427223383841 -36.31179632824815,-9.83454460228766 -36.31186629200662,-9.83479149568635 -36.31189517482056,-9.83493071139132 -36.31196800895052,-9.83521442917734 -36.31202357971206,-9.83547384018618 -36.31201196553112,-9.83562142270740 -36.31197120557415,-9.83565671113997 -36.31187671359773,-9.83572020332902 -36.31163631494343,-9.83577585677036 -36.31137819645092,-9.83581772251867 -36.31122336977004,-9.83583899801265 -36.31109146516823,-9.83586692652560 -36.31098454541767,-9.83588269296843 -36.31067453150313,-9.83588246181324 -36.31036591813335,-9.83590206068619 -36.31003788998724,-9.83594410861797 -36.30987259052004,-9.83595271469758 -36.30976412528080,-9.83593823785205 -36.30964700527530,-9.83588883831595 -36.30954038292023,-9.83581145323136 -36.30941082698593,-9.83571209540477 -36.30925905992511,-9.83560854441360 -36.30892934749746,-9.83547908412481 -36.30877405908699,-9.83541666321100 -36.31151239884646,-9.83342355537993 -36.31151239884646,-9.83342355537993
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+</Document>
+</kml>

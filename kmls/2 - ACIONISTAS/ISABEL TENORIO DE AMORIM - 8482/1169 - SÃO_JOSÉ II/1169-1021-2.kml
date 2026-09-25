@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="SÃO_JOSÉ_TALHAO_1021_ID_211" id="SÃO_JOSÉ_TALHAO_1021_ID_211">
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="ACIONISTA" type="string"></SimpleField>
+	<SimpleField name="CODE" type="string"></SimpleField>
+</Schema>
+<Folder><name>SÃO_JOSÉ_TALHAO_1021_ID_211</name>
+  <Placemark id="SÃO_JOSÉ_TALHAO_1021_ID_211.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SÃO_JOSÉ_TALHAO_1021_ID_211">
+		<SimpleData name="ID">211</SimpleData>
+		<SimpleData name="AREA_TOTAL">0.43</SimpleData>
+		<SimpleData name="FAZ_NOME">SÃO JOSÉ</SimpleData>
+		<SimpleData name="TALHAO">1021</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="ACIONISTA">ISABEL TENÓRIO</SimpleData>
+		<SimpleData name="CODE"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.2608484733778,-9.82801976660643,0 -36.2609085619889,-9.82840121938418,0 -36.2609771683778,-9.82871051410638,0 -36.2609949122667,-9.8287860499397,0 -36.2611581594889,-9.82854117910636,0 -36.2613299819889,-9.82828344577306,0 -36.2615454019889,-9.82798185799534,0 -36.2617770364333,-9.82773240577314,0 -36.2616510267111,-9.82777440882869,0 -36.2614195639334,-9.82784562827314,0 -36.2613720781,-9.82786023910644,0 -36.2610493333778,-9.8279678207731,0 -36.2608455225445,-9.82800858271751,0 -36.2608484733778,-9.82801976660643,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

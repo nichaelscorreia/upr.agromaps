@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="GITIRANA_TALHAO_1017_ID_413" id="GITIRANA_TALHAO_1017_ID_413">
+	<SimpleField name="TALHAO" type="string"></SimpleField>
+	<SimpleField name="FAZENDA" type="string"></SimpleField>
+	<SimpleField name="ZONA" type="string"></SimpleField>
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+	<SimpleField name="CODE" type="string"></SimpleField>
+</Schema>
+<Folder><name>GITIRANA_TALHAO_1017_ID_413</name>
+  <Placemark id="GITIRANA_TALHAO_1017_ID_413.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#GITIRANA_TALHAO_1017_ID_413">
+		<SimpleData name="TALHAO">1017</SimpleData>
+		<SimpleData name="FAZENDA">2427</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="ID">413</SimpleData>
+		<SimpleData name="AREA_TOTAL">4.43</SimpleData>
+		<SimpleData name="FAZ_NOME">GITIRANA</SimpleData>
+		<SimpleData name="CODE"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.1908779777423,-9.83116971999858,0 -36.1930679871626,-9.83175686620234,0 -36.1935798685684,-9.83034235082483,0 -36.1911880909005,-9.82980339367839,0 -36.1911401422897,-9.82989899893582,0 -36.1910879133344,-9.83000313872598,0 -36.1910743402185,-9.83003113135618,0 -36.190952223116,-9.83028793664722,0 -36.1908378895901,-9.83053202431102,0 -36.1907206987923,-9.83076794147196,0 -36.1906517580246,-9.83090964433423,0 -36.1906167597523,-9.83099726540015,0 -36.1906068445941,-9.83104422017359,0 -36.1906143680832,-9.83109333503136,0 -36.1906323252295,-9.83112722910881,0 -36.1906581058026,-9.83115127977138,0 -36.1906885756322,-9.8311585235177,0 -36.1907370412461,-9.83115892164513,0 -36.1908779777423,-9.83116971999858,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

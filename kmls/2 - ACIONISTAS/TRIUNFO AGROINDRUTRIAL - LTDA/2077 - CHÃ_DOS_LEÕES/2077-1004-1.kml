@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="CHÃ_DOS_LEÕES_TALHAO_1004_ID_62" id="CHÃ_DOS_LEÕES_TALHAO_1004_ID_62">
+	<SimpleField name="CODE" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+</Schema>
+<Folder><name>CHÃ_DOS_LEÕES_TALHAO_1004_ID_62</name>
+  <Placemark id="CHÃ_DOS_LEÕES_TALHAO_1004_ID_62.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CHÃ_DOS_LEÕES_TALHAO_1004_ID_62">
+		<SimpleData name="CODE">63</SimpleData>
+		<SimpleData name="TALHAO">1004</SimpleData>
+		<SimpleData name="AREA_TOTAL">1.294</SimpleData>
+		<SimpleData name="FAZENDA">2077</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="FAZ_NOME">CHÃ DOS LEÕES</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.1286187815516,-9.66789837755099 -36.1280634288351,-9.66965360945021 -36.1281304846745,-9.66973731022746 -36.1282619111736,-9.66970899495766 -36.1283679172984,-9.66964822689501 -36.1284788890579,-9.66951851521108 -36.1286063713122,-9.66927145803377 -36.1287395364108,-9.66899522824443 -36.1289046444233,-9.66862902111686 -36.1291019772979,-9.66823882342519 -36.1291651100182,-9.66808325830931 -36.1292399091107,-9.66792740265388 -36.1293601074345,-9.66775434031292 -36.1294744145462,-9.66762971831346 -36.1295432755886,-9.66757495628806 -36.1296005402125,-9.6675226927068 -36.1296537600518,-9.66746131916276 -36.1296765602317,-9.66740231728245 -36.1286376158106,-9.66788976983072 -36.1286187815516,-9.66789837755099</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

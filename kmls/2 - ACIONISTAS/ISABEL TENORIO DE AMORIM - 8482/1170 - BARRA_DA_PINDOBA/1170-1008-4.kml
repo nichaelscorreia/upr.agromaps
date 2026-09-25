@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="BARRA_DA_PINDOBA_TALHAO_1008_ID_212" id="BARRA_DA_PINDOBA_TALHAO_1008_ID_212">
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="ACIONISTA" type="string"></SimpleField>
+	<SimpleField name="CODE" type="string"></SimpleField>
+</Schema>
+<Folder><name>BARRA_DA_PINDOBA_TALHAO_1008_ID_212</name>
+  <Placemark id="BARRA_DA_PINDOBA_TALHAO_1008_ID_212.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BARRA_DA_PINDOBA_TALHAO_1008_ID_212">
+		<SimpleData name="ID">212</SimpleData>
+		<SimpleData name="AREA_TOTAL">4.40</SimpleData>
+		<SimpleData name="FAZ_NOME">BARRA DA PINDOBA</SimpleData>
+		<SimpleData name="TALHAO">1008</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="ACIONISTA">ISABEL TENÓRIO</SimpleData>
+		<SimpleData name="CODE"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.2506713077312,-9.8105099225521,0 -36.2504529804154,-9.80976792012423,0 -36.2502251251592,-9.80898956534647,0 -36.2501738724235,-9.80882552675865,0 -36.2501614248555,-9.80882834705036,0 -36.2501596018727,-9.80882223837974,0 -36.2501659247,-9.80880194031078,0 -36.250168959971,-9.8088014672036,0 -36.2501677770398,-9.80879599377393,0 -36.2501705251504,-9.8087871715578,0 -36.251598018069,-9.80834921734613,0 -36.2528126516149,-9.80801168798117,0 -36.2535929021345,-9.80775335612256,0 -36.2536288586353,-9.80775840557815,0 -36.2537750220562,-9.80788030304187,0 -36.250665420745,-9.81050308762922,0 -36.2506713077312,-9.8105099225521,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

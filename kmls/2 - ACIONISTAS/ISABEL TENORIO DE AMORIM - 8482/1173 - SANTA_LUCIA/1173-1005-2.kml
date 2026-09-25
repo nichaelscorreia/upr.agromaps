@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="SANTA_LUCIA_TALHAO_1005_ID_173" id="SANTA_LUCIA_TALHAO_1005_ID_173">
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="ACIONISTA" type="string"></SimpleField>
+	<SimpleField name="CODE" type="string"></SimpleField>
+</Schema>
+<Folder><name>SANTA_LUCIA_TALHAO_1005_ID_173</name>
+  <Placemark id="SANTA_LUCIA_TALHAO_1005_ID_173.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SANTA_LUCIA_TALHAO_1005_ID_173">
+		<SimpleData name="ID">173</SimpleData>
+		<SimpleData name="AREA_TOTAL">6.86</SimpleData>
+		<SimpleData name="FAZENDA">1173</SimpleData>
+		<SimpleData name="FAZ_NOME">SANTA LUCIA</SimpleData>
+		<SimpleData name="TALHAO">1005</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="ACIONISTA">ISABEL TENÓRIO</SimpleData>
+		<SimpleData name="CODE"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.433714687539,-9.74088725406335,0 -36.4344059509668,-9.74388035010972,0 -36.4359296673496,-9.7438163169223,0 -36.4359240798098,-9.74378235904201,0 -36.4359136211205,-9.74375675718071,0 -36.4358207452687,-9.74336542292437,0 -36.4351853233716,-9.74054655866754,0 -36.435050276611,-9.74003640387358,0 -36.4350398296932,-9.74000697758846,0 -36.4349831295394,-9.74001355228919,0 -36.4348900849033,-9.74001848659424,0 -36.4348266404659,-9.7400255642295,0 -36.4347714980171,-9.74003045541019,0 -36.4347117834024,-9.74003575213531,0 -36.434639953735,-9.7400433259898,0 -36.434559694705,-9.74005107611005,0 -36.4344899441903,-9.74005768107497,0 -36.4344173432775,-9.74006409820909,0 -36.4343072932736,-9.74007280993994,0 -36.4342328945597,-9.74007763337805,0 -36.4341949605171,-9.74008027089633,0 -36.4340853385048,-9.74009076689312,0 -36.4339859806065,-9.74009986081975,0 -36.433714687539,-9.74088725406335,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ARVORE_COMPRIDA_TALHAO_1002_ID_152" id="ARVORE_COMPRIDA_TALHAO_1002_ID_152">
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="ACIONISTA" type="string"></SimpleField>
+	<SimpleField name="CODE" type="string"></SimpleField>
+</Schema>
+<Folder><name>ARVORE_COMPRIDA_TALHAO_1002_ID_152</name>
+  <Placemark id="ARVORE_COMPRIDA_TALHAO_1002_ID_152.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#ARVORE_COMPRIDA_TALHAO_1002_ID_152">
+		<SimpleData name="ID">152</SimpleData>
+		<SimpleData name="AREA_TOTAL">7.81</SimpleData>
+		<SimpleData name="FAZENDA">2775</SimpleData>
+		<SimpleData name="FAZ_NOME">ARVORE COMPRIDA</SimpleData>
+		<SimpleData name="TALHAO">1002</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="ACIONISTA">ISABEL TENÓRIO</SimpleData>
+		<SimpleData name="CODE"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.3699096341732,-9.76304753033994,0 -36.3698656389819,-9.76522886333315,0 -36.3698636857911,-9.76527017934493,0 -36.3723538493544,-9.76564074424751,0 -36.3723359700947,-9.7626342737457,0 -36.3699096341732,-9.76304753033994,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

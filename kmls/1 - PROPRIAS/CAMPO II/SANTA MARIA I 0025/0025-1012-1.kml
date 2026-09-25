@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>1012.kml</name>
+  <StyleMap id="FF0040FF">
+    <Pair>
+      <key>normal</key>
+      <styleUrl>#s_FF0040FF</styleUrl>
+    </Pair>
+    <Pair>
+      <key>highlight</key>
+      <styleUrl>#s_FF0040FF_hl</styleUrl>
+    </Pair>
+  </StyleMap>
+  <Style id="s_FF0040FF">
+   <IconStyle>
+      <scale>1.1</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/pushpin/agrocad.png</href>
+      </Icon>
+      <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+    </IconStyle>
+    <LineStyle>
+      <color>FF0040FF</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>40ffffff</color>
+      <fill>1</fill>
+    </PolyStyle>
+  </Style>
+  <Style id="s_FF0040FF_hl">
+    <IconStyle>
+      <scale>1.3</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/pushpin/agrocad.png</href>
+      </Icon>
+      <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+    </IconStyle>
+    <LineStyle>
+      <color>ff000000</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>40ffffff</color>
+      <fill>1</fill>
+    </PolyStyle>
+  </Style>
+  <Placemark>
+    <name>AgroCAD: 8386</name>
+    <styleUrl>FF0040FF</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+           -36.23198888413178,-9.86015860521070 -36.23203013047939,-9.86015778018716 -36.23329668419903,-9.86014704663783 -36.23332612473803,-9.86014822435043 -36.23291515918727,-9.85937897954099 -36.23280184122438,-9.85911618052035 -36.23249547503170,-9.85953237389934 -36.23198888413178,-9.86015860521071 -36.23198888413178,-9.86015860521070
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>AgroCAD: 8384</name>
+    <styleUrl>FF0040FF</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+           -36.23676084929420,-9.85728519236556 -36.23675372491933,-9.85728621013165 -36.23617487185994,-9.85737196613122 -36.23595896503593,-9.85741514749170 -36.23574142552101,-9.85741514748840 -36.23556976414543,-9.85739368981409 -36.23537664509609,-9.85739368981029 -36.23520498372022,-9.85737223213607 -36.23501230286775,-9.85737223213234 -36.23473213871974,-9.85735068103951 -36.23440996504426,-9.85730772454437 -36.23422032699322,-9.85728665364752 -36.23417224688637,-9.85729867367613 -36.23363281568289,-9.85798730729537 -36.23282683371972,-9.85908222855877 -36.23294806935354,-9.85936338962088 -36.23336826444460,-9.86014991006455 -36.23517464055566,-9.86022216558334 -36.23813622887369,-9.86032946875284 -36.23816577866634,-9.86033203831313 -36.23764473376091,-9.85916969883682 -36.23676084929420,-9.85728519236556 -36.23676084929420,-9.85728519236556
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+</Document>
+</kml>

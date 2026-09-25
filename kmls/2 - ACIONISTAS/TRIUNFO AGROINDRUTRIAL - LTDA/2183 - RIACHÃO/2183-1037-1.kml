@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="RIACHÃO_TALHAO_1037_ID_175" id="RIACHÃO_TALHAO_1037_ID_175">
+	<SimpleField name="CODE" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+</Schema>
+<Folder><name>RIACHÃO_TALHAO_1037_ID_175</name>
+  <Placemark id="RIACHÃO_TALHAO_1037_ID_175.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#RIACHÃO_TALHAO_1037_ID_175">
+		<SimpleData name="CODE">176</SimpleData>
+		<SimpleData name="TALHAO">1037</SimpleData>
+		<SimpleData name="AREA_TOTAL">15.108</SimpleData>
+		<SimpleData name="FAZENDA">2183</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="FAZ_NOME">RIACHÃO</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.1099547119238,-9.68651162397162 -36.1099371951813,-9.68655293824481 -36.1100297371855,-9.68712707924164 -36.1103227770047,-9.68952065455962 -36.1130986638941,-9.68909689630677 -36.1144576983557,-9.68665875843964 -36.1143275331339,-9.68578173825681 -36.1142294327367,-9.68575891768062 -36.1141066678067,-9.68574103778912 -36.113582533513,-9.68559549741891 -36.1133659384303,-9.68558136941406 -36.1132317901243,-9.6856254029749 -36.1129867601657,-9.68574304364861 -36.1127889887107,-9.68588009443213 -36.1126162070217,-9.68598639263124 -36.1122996571217,-9.68610940147988 -36.111566563446,-9.68628218520186 -36.11113139561,-9.68633323280452 -36.1107400137392,-9.68636269082185 -36.1104680543492,-9.6864463919788 -36.1101240505242,-9.68641416519315 -36.1100260127991,-9.68642185301134 -36.1099547119238,-9.68651162397162</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

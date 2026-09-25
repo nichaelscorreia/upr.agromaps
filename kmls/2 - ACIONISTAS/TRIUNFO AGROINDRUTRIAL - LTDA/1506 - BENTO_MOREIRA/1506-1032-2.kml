@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="BENTO_MOREIRA_TALHAO_1032_ID_260" id="BENTO_MOREIRA_TALHAO_1032_ID_260">
+	<SimpleField name="CODE" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+</Schema>
+<Folder><name>BENTO_MOREIRA_TALHAO_1032_ID_260</name>
+  <Placemark id="BENTO_MOREIRA_TALHAO_1032_ID_260.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BENTO_MOREIRA_TALHAO_1032_ID_260">
+		<SimpleData name="CODE">261</SimpleData>
+		<SimpleData name="TALHAO">1032</SimpleData>
+		<SimpleData name="AREA_TOTAL">2.706</SimpleData>
+		<SimpleData name="FAZENDA">1506</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="FAZ_NOME">BENTO MOREIRA</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.0949749646148,-9.6626268087474 -36.0932286565798,-9.66117097346798 -36.0929590573966,-9.66089286836031 -36.0929667815815,-9.66100994271907 -36.0930266296904,-9.66126352946387 -36.0930784490416,-9.66140671413742 -36.0931481617124,-9.6616065121319 -36.0932410203672,-9.66171471715192 -36.0934033105961,-9.66188024881073 -36.0934928145687,-9.66209186429316 -36.0934912523263,-9.66221702234662 -36.0934571189975,-9.66236164103345 -36.0933312311539,-9.66239130656205 -36.0931527178715,-9.66233759737083 -36.09283042447,-9.6621707373514 -36.0925077335557,-9.6618663179206 -36.0928273514937,-9.66225169227574 -36.0935522338168,-9.66315999617072 -36.0938542017674,-9.66353123768953 -36.0938890093917,-9.66351091003197 -36.0949749646148,-9.6626268087474</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

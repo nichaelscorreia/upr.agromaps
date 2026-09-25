@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ALTINHO_TALHAO_1001_ID_100" id="ALTINHO_TALHAO_1001_ID_100">
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="ACIONISTA" type="string"></SimpleField>
+	<SimpleField name="CODE" type="string"></SimpleField>
+</Schema>
+<Folder><name>ALTINHO_TALHAO_1001_ID_100</name>
+  <Placemark id="ALTINHO_TALHAO_1001_ID_100.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#ALTINHO_TALHAO_1001_ID_100">
+		<SimpleData name="ID">100</SimpleData>
+		<SimpleData name="AREA_TOTAL">9.19</SimpleData>
+		<SimpleData name="FAZENDA">2847</SimpleData>
+		<SimpleData name="FAZ_NOME">ALTINHO</SimpleData>
+		<SimpleData name="TALHAO">1001</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="ACIONISTA">KAROLINE ROSE CALHEIROS</SimpleData>
+		<SimpleData name="CODE"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.3705906172703,-9.77542271732069,0 -36.3703031227671,-9.77706511849857,0 -36.3702379815669,-9.77736581002918,0 -36.3707265031524,-9.77732946043364,0 -36.371310896489,-9.77726728619644,0 -36.3723941736464,-9.77716147821789,0 -36.373656613134,-9.77705651944967,0 -36.3742516285219,-9.77698282924276,0 -36.3733912438044,-9.7745880972025,0 -36.3705906172703,-9.77542271732069,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

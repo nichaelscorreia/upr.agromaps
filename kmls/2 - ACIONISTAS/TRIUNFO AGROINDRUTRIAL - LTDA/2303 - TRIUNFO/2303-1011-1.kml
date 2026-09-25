@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="TRIUNFO_TALHAO_1011_ID_107" id="TRIUNFO_TALHAO_1011_ID_107">
+	<SimpleField name="CODE" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+</Schema>
+<Folder><name>TRIUNFO_TALHAO_1011_ID_107</name>
+  <Placemark id="TRIUNFO_TALHAO_1011_ID_107.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#TRIUNFO_TALHAO_1011_ID_107">
+		<SimpleData name="CODE">108</SimpleData>
+		<SimpleData name="TALHAO">1011</SimpleData>
+		<SimpleData name="AREA_TOTAL">8.810</SimpleData>
+		<SimpleData name="FAZENDA">2303</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="FAZ_NOME">TRIUNFO</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.1950331105322,-9.63615421636868 -36.1950625097313,-9.63610009292075 -36.1950293132267,-9.63603316357452 -36.193631278188,-9.6346241364222 -36.1924938885807,-9.6334721861108 -36.1917422962219,-9.63272643010481 -36.1916193163988,-9.63279538340673 -36.191376970448,-9.63302758289617 -36.1911649651735,-9.63331033055974 -36.1910060830101,-9.63355274741441 -36.1909402586278,-9.63389330177377 -36.1908577051047,-9.63447861526367 -36.1907927227056,-9.63493024048305 -36.1908308793158,-9.63530673761049 -36.1908844234453,-9.63549004867831 -36.1931162054652,-9.63586354608398 -36.1950331105322,-9.63615421636868</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

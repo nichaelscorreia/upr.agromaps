@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="RIACHÃO_TALHAO_1902_ID_55" id="RIACHÃO_TALHAO_1902_ID_55">
+	<SimpleField name="CODE" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+</Schema>
+<Folder><name>RIACHÃO_TALHAO_1902_ID_55</name>
+  <Placemark id="RIACHÃO_TALHAO_1902_ID_55.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#RIACHÃO_TALHAO_1902_ID_55">
+		<SimpleData name="CODE">56</SimpleData>
+		<SimpleData name="TALHAO">1902</SimpleData>
+		<SimpleData name="AREA_TOTAL">1.545</SimpleData>
+		<SimpleData name="FAZENDA">2183</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="FAZ_NOME">RIACHÃO</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.1328825242883,-9.68743932505655 -36.1335197938579,-9.68619161457966 -36.1315501304611,-9.68644765873648 -36.1291206804933,-9.68681206760742 -36.1291588813432,-9.6868723802885 -36.1292017765112,-9.6868673295422 -36.1306874725066,-9.68667887995307 -36.1312010450683,-9.68661288070396 -36.1313528863249,-9.68660320076594 -36.1315901201768,-9.6866260463415 -36.1317093878387,-9.68665072520762 -36.1318696612441,-9.6866924926967 -36.1320278251265,-9.68672138048143 -36.1321870962162,-9.68673997972983 -36.1323367331423,-9.68679910910378 -36.132474308675,-9.68689774112243 -36.1326090684424,-9.68702245562092 -36.1327035976927,-9.68711486144105 -36.1328010488734,-9.68725278275833 -36.1328825242883,-9.68743932505655</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

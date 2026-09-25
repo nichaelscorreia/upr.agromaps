@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="RIACHÃO_TALHAO_1044_ID_155" id="RIACHÃO_TALHAO_1044_ID_155">
+	<SimpleField name="CODE" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+</Schema>
+<Folder><name>RIACHÃO_TALHAO_1044_ID_155</name>
+  <Placemark id="RIACHÃO_TALHAO_1044_ID_155.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#RIACHÃO_TALHAO_1044_ID_155">
+		<SimpleData name="CODE">156</SimpleData>
+		<SimpleData name="TALHAO">1044</SimpleData>
+		<SimpleData name="AREA_TOTAL">19.138</SimpleData>
+		<SimpleData name="FAZENDA">2183</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="FAZ_NOME">RIACHÃO</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.1050125338035,-9.68660699836325 -36.1054442952227,-9.68925219251938 -36.1056255736805,-9.69018436957979 -36.1102756344489,-9.68953269927396 -36.1099069759154,-9.68668565902204 -36.1098698091465,-9.6864454488864 -36.1096398062903,-9.6864388939695 -36.1092050385144,-9.68649432324218 -36.1087446144167,-9.68661354710323 -36.108668971048,-9.68686613440195 -36.1085511072641,-9.68724667364352 -36.1085274162265,-9.68742760322381 -36.1084315764249,-9.6875090037391 -36.1083188548202,-9.68752793560155 -36.1082366614822,-9.68745528761981 -36.1082156723943,-9.68728444961457 -36.1082064434727,-9.6871250892216 -36.1080553364053,-9.68694436210249 -36.1077595363664,-9.68678852942645 -36.1072503871059,-9.68662692077491 -36.1065118281881,-9.6865207551474 -36.1058889128758,-9.68648217488203 -36.105363003366,-9.68651023137892 -36.1050736642776,-9.68656281456628 -36.1050125338035,-9.68660699836325</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

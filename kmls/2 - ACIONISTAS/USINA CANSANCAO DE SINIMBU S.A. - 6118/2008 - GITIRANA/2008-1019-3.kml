@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="GITIRANA_TALHAO_1019_ID_415" id="GITIRANA_TALHAO_1019_ID_415">
+	<SimpleField name="TALHAO" type="string"></SimpleField>
+	<SimpleField name="FAZENDA" type="string"></SimpleField>
+	<SimpleField name="ZONA" type="string"></SimpleField>
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+	<SimpleField name="CODE" type="string"></SimpleField>
+</Schema>
+<Folder><name>GITIRANA_TALHAO_1019_ID_415</name>
+  <Placemark id="GITIRANA_TALHAO_1019_ID_415.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#GITIRANA_TALHAO_1019_ID_415">
+		<SimpleData name="TALHAO">1019</SimpleData>
+		<SimpleData name="FAZENDA">2427</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="ID">415</SimpleData>
+		<SimpleData name="AREA_TOTAL">5.87</SimpleData>
+		<SimpleData name="FAZ_NOME">GITIRANA</SimpleData>
+		<SimpleData name="CODE"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.1932629582302,-9.83184657094298,0 -36.1925526585838,-9.83380936080025,0 -36.1947621248638,-9.83446953816842,0 -36.1948523956208,-9.83420717296198,0 -36.1950571832373,-9.83359057402654,0 -36.19516280576,-9.83328444259376,0 -36.1952720976601,-9.83297008769689,0 -36.1953974082186,-9.83259532479967,0 -36.1954483442445,-9.83243246115922,0 -36.1932629582302,-9.83184657094298,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

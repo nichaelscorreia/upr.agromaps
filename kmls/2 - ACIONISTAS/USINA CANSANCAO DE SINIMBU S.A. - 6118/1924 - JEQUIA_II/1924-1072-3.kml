@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="JEQUIA_II_TALHAO_1072_ID_1053" id="JEQUIA_II_TALHAO_1072_ID_1053">
+	<SimpleField name="TALHAO" type="string"></SimpleField>
+	<SimpleField name="FAZENDA" type="string"></SimpleField>
+	<SimpleField name="ZONA" type="string"></SimpleField>
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+	<SimpleField name="CODE" type="string"></SimpleField>
+</Schema>
+<Folder><name>JEQUIA_II_TALHAO_1072_ID_1053</name>
+  <Placemark id="JEQUIA_II_TALHAO_1072_ID_1053.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#JEQUIA_II_TALHAO_1072_ID_1053">
+		<SimpleData name="TALHAO">1072</SimpleData>
+		<SimpleData name="FAZENDA">1924</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="ID">1053</SimpleData>
+		<SimpleData name="AREA_TOTAL">25.97</SimpleData>
+		<SimpleData name="FAZ_NOME">JEQUIA II</SimpleData>
+		<SimpleData name="CODE"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.1848569743369,-9.91864026561024,0 -36.1848564588486,-9.91863029701004,0 -36.1844812936474,-9.91262051952203,0 -36.1816762616006,-9.91368466859375,0 -36.1808858608819,-9.92029185925061,0 -36.1845447575087,-9.91889768152414,0 -36.1847115973857,-9.91881884891722,0 -36.1847310002557,-9.91880870954315,0 -36.1847526869007,-9.91879713040201,0 -36.1847723539202,-9.91878033561036,0 -36.1847896518279,-9.91875990937581,0 -36.1848067227162,-9.91874085335987,0 -36.184818603224,-9.91872070297478,0 -36.184831958303,-9.91870089228472,0 -36.1848448013058,-9.91868038743542,0 -36.1848534819199,-9.91865787092785,0 -36.1848569743369,-9.91864026561024,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

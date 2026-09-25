@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="BENTO_MOREIRA_TALHAO_1028_ID_263" id="BENTO_MOREIRA_TALHAO_1028_ID_263">
+	<SimpleField name="CODE" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+</Schema>
+<Folder><name>BENTO_MOREIRA_TALHAO_1028_ID_263</name>
+  <Placemark id="BENTO_MOREIRA_TALHAO_1028_ID_263.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BENTO_MOREIRA_TALHAO_1028_ID_263">
+		<SimpleData name="CODE">264</SimpleData>
+		<SimpleData name="TALHAO">1028</SimpleData>
+		<SimpleData name="AREA_TOTAL">6.241</SimpleData>
+		<SimpleData name="FAZENDA">1506</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="FAZ_NOME">BENTO MOREIRA</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.0867746197644,-9.66915764642701 -36.0879961868281,-9.6681774101846 -36.0882793147421,-9.66794302455662 -36.0882712896178,-9.66786636768257 -36.0882110265501,-9.6678023860811 -36.0880480428908,-9.66763443730726 -36.0876070505821,-9.66713754776429 -36.0874055963365,-9.66701929214553 -36.0870130989898,-9.66684412706083 -36.0869043576586,-9.6667441857336 -36.0867541830964,-9.66659089092926 -36.0866306480367,-9.66643343688802 -36.0865013132875,-9.66621786550294 -36.0864525283742,-9.66618375565463 -36.0864635280124,-9.66595671515416 -36.0864029158132,-9.66578654056305 -36.0863451352604,-9.66573166039975 -36.0862334714205,-9.66572675003099 -36.0860631581858,-9.66580122024003 -36.0858924916096,-9.66587209476179 -36.0857552501186,-9.66601147278372 -36.085667814603,-9.66619186850437 -36.0855611551302,-9.6664550564705 -36.0854386153198,-9.66684521405449 -36.0854244698445,-9.6672126279622 -36.0854555250789,-9.66743156933166 -36.0855199694694,-9.66755560875231 -36.0861198619281,-9.66833945377766 -36.0867746197644,-9.66915764642701</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

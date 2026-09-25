@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="SÃO_JOSÉ_TALHAO_1006_ID_239" id="SÃO_JOSÉ_TALHAO_1006_ID_239">
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="ACIONISTA" type="string"></SimpleField>
+	<SimpleField name="CODE" type="string"></SimpleField>
+</Schema>
+<Folder><name>SÃO_JOSÉ_TALHAO_1006_ID_239</name>
+  <Placemark id="SÃO_JOSÉ_TALHAO_1006_ID_239.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SÃO_JOSÉ_TALHAO_1006_ID_239">
+		<SimpleData name="ID">239</SimpleData>
+		<SimpleData name="AREA_TOTAL">20.52</SimpleData>
+		<SimpleData name="FAZ_NOME">SÃO JOSÉ</SimpleData>
+		<SimpleData name="TALHAO">1006</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="ACIONISTA">ISABEL TENÓRIO</SimpleData>
+		<SimpleData name="CODE"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.2657682667108,-9.81350822299601,0 -36.265060125322,-9.81434511744042,0 -36.2648976472664,-9.81453626827376,0 -36.2652931325442,-9.81481047021821,0 -36.2661297117108,-9.81543254216265,0 -36.2667087444885,-9.81581856410712,0 -36.267675160044,-9.81650579327384,0 -36.2683159690399,-9.81698640009026,0 -36.2691955983772,-9.81593513577393,0 -36.2697535942105,-9.81529129494064,0 -36.2702752517104,-9.8146796974407,0 -36.2700071439327,-9.81416785410737,0 -36.2692776419883,-9.81281612910735,0 -36.2687625828217,-9.81185039244071,0 -36.2681478855995,-9.81068246744071,0 -36.268106060044,-9.81072011077404,0 -36.2678497117106,-9.81104054577399,0 -36.267527660044,-9.81140553744065,0 -36.266691041433,-9.81241376966278,0 -36.2657682667108,-9.81350822299601,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

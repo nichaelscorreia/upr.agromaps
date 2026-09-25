@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>3003.kml</name>
+  <StyleMap id="FFFF4000">
+    <Pair>
+      <key>normal</key>
+      <styleUrl>#s_FFFF4000</styleUrl>
+    </Pair>
+    <Pair>
+      <key>highlight</key>
+      <styleUrl>#s_FFFF4000_hl</styleUrl>
+    </Pair>
+  </StyleMap>
+  <Style id="s_FFFF4000">
+   <IconStyle>
+      <scale>1.1</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/pushpin/agrocad.png</href>
+      </Icon>
+      <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+    </IconStyle>
+    <LineStyle>
+      <color>FFFF4000</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>40ffffff</color>
+      <fill>1</fill>
+    </PolyStyle>
+  </Style>
+  <Style id="s_FFFF4000_hl">
+    <IconStyle>
+      <scale>1.3</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/pushpin/agrocad.png</href>
+      </Icon>
+      <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+    </IconStyle>
+    <LineStyle>
+      <color>ff000000</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>40ffffff</color>
+      <fill>1</fill>
+    </PolyStyle>
+  </Style>
+  <Placemark>
+    <name>AgroCAD: 956C</name>
+    <styleUrl>FFFF4000</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+           -36.29078400665920,-9.79197734458112 -36.29077347754583,-9.79206337337559 -36.29030611932140,-9.79583057298468 -36.28619800323392,-9.79697773999602 -36.28606288540041,-9.79675357184326 -36.28600027849783,-9.79666215431868 -36.28594991968808,-9.79658155067096 -36.28545536437863,-9.79578173745504 -36.28515376604761,-9.79530750090523 -36.28511572055827,-9.79523205125702 -36.28509102356540,-9.79512697022890 -36.28508240237426,-9.79506581283331 -36.28509016489552,-9.79500637627693 -36.28512694484348,-9.79497117903741 -36.28518930615613,-9.79493855507063 -36.28524772797621,-9.79491925760201 -36.28531820047147,-9.79489598482606 -36.28538319716150,-9.79487048752080 -36.28543685341712,-9.79484607145295 -36.28549261061014,-9.79480248447828 -36.28554048906254,-9.79474849515452 -36.28557773991702,-9.79469365060358 -36.28561018469183,-9.79463394347114 -36.28562558403973,-9.79456776855444 -36.28563601127357,-9.79449905086317 -36.28564641670596,-9.79444554284710 -36.28564920820882,-9.79439127758099 -36.28564826207311,-9.79433091709220 -36.28565760886552,-9.79426128549577 -36.28567604166298,-9.79420129759091 -36.28571400122533,-9.79413374000305 -36.28574858989772,-9.79408291227011 -36.28577888848760,-9.79405194707515 -36.28600670879734,-9.79381103617805 -36.28660589620936,-9.79317741102444 -36.28663546545148,-9.79314481471554 -36.28670667284812,-9.79313263190146 -36.28693796784958,-9.79305971448104 -36.29078400665920,-9.79197734458112
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+</Document>
+</kml>

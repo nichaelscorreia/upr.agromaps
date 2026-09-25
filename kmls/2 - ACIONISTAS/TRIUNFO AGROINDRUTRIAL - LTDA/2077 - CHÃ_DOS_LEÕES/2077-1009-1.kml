@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="CHÃ_DOS_LEÕES_TALHAO_1009_ID_227" id="CHÃ_DOS_LEÕES_TALHAO_1009_ID_227">
+	<SimpleField name="CODE" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+</Schema>
+<Folder><name>CHÃ_DOS_LEÕES_TALHAO_1009_ID_227</name>
+  <Placemark id="CHÃ_DOS_LEÕES_TALHAO_1009_ID_227.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CHÃ_DOS_LEÕES_TALHAO_1009_ID_227">
+		<SimpleData name="CODE">228</SimpleData>
+		<SimpleData name="TALHAO">1009</SimpleData>
+		<SimpleData name="AREA_TOTAL">10.121</SimpleData>
+		<SimpleData name="FAZENDA">2077</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="FAZ_NOME">CHÃ DOS LEÕES</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.1276605234343,-9.66207963234756 -36.1248667411468,-9.66063762502534 -36.1247118882727,-9.6608371406742 -36.1244103895241,-9.66115187760952 -36.1242172629722,-9.66136227799942 -36.1235329319325,-9.66199762556517 -36.1230714735995,-9.66246701783185 -36.1222440772216,-9.6632704536387 -36.1222737279106,-9.6633098273953 -36.122981260339,-9.6632156607893 -36.1241888147683,-9.66314320600244 -36.1252366829461,-9.6630845721346 -36.1266579935401,-9.66294542480798 -36.1275553469996,-9.66287236409998 -36.1285317958479,-9.66282313444528 -36.1285789476482,-9.66272464242153 -36.1286030682879,-9.66259645747165 -36.1281247691593,-9.66234030836462 -36.1276605234343,-9.66207963234756</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

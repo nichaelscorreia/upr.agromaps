@@ -1,0 +1,206 @@
+@import 'leaflet/dist/leaflet.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #root {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* Custom Leaflet styling for AgroMaps */
+.leaflet-container {
+  font-family: inherit;
+  width: 100% !important;
+  height: 100% !important;
+  background-color: #1a202c;
+  z-index: 1;
+}
+
+.leaflet-popup-content-wrapper {
+  padding: 0;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.3), 0 8px 10px -6px rgba(0, 0, 0, 0.2);
+}
+
+.leaflet-popup-content {
+  margin: 0;
+  line-height: inherit;
+}
+
+.leaflet-popup-tip {
+  background: white;
+}
+
+/* Custom Marker styles */
+.custom-vehicle-marker {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.custom-vehicle-marker:hover {
+  transform: scale(1.18);
+  z-index: 1000 !important;
+}
+
+/* Layer control styling */
+.leaflet-control-layers {
+  border-radius: 8px !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15) !important;
+  border: 1px solid rgba(0, 0, 0, 0.1) !important;
+  font-family: inherit !important;
+  font-size: 13px !important;
+  padding: 6px 10px !important;
+}
+
+/* Ocultar barra de rolagem mantendo funcionalidade */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Tooltip Leaflet AgroMaps */
+.leaflet-tooltip.leaflet-agro-tooltip {
+  background: rgba(15, 23, 42, 0.9) !important;
+  border: 1px solid rgba(34, 197, 94, 0.5) !important;
+  border-radius: 8px !important;
+  color: #f8fafc !important;
+  font-weight: 600 !important;
+  font-size: 11px !important;
+  padding: 4px 8px !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3) !important;
+}
+
+.leaflet-tooltip-top.leaflet-agro-tooltip::before {
+  border-top-color: rgba(15, 23, 42, 0.9) !important;
+}
+
+/* Regras de Impressão */
+@media print {
+  @page {
+    size: A4 portrait;
+    margin: 8mm 10mm 8mm 10mm;
+  }
+
+  body, html, #root {
+    background-color: #ffffff !important;
+    color: #000000 !important;
+    height: auto !important;
+    min-height: auto !important;
+    overflow: visible !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  /* Ocultar elementos de navegação e controles interativos da interface */
+  header, nav, aside, .no-print, [role="banner"], button {
+    display: none !important;
+  }
+
+  /* Exibir conteúdo sem scrollbars ou limites de altura */
+  main, .overflow-y-auto, .overflow-hidden {
+    overflow: visible !important;
+    height: auto !important;
+    max-height: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    background: transparent !important;
+  }
+
+  #printable-burn-report {
+    display: block !important;
+    visibility: visible !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    background: #ffffff !important;
+    border: none !important;
+    box-shadow: none !important;
+  }
+
+  .print-page-break {
+    page-break-before: always !important;
+    break-before: page !important;
+    margin-top: 15px !important;
+  }
+
+  /* Garantir que tabelas e blocos não quebrem no meio de uma linha */
+  tr, .break-inside-avoid {
+    break-inside: avoid !important;
+    page-break-inside: avoid !important;
+  }
+}
+
+/* Timeline Custom Range Slider Styling */
+.timeline-slider {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 100%;
+  height: 8px;
+  border-radius: 9999px;
+  background: rgba(255, 255, 255, 0.2);
+  outline: none;
+  transition: all 0.2s ease;
+  cursor: pointer;
+}
+
+.timeline-slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  background: #ffffff;
+  border: 3px solid #10b981;
+  box-shadow: 0 0 12px rgba(16, 185, 129, 0.8), 0 2px 6px rgba(0, 0, 0, 0.3);
+  cursor: grab;
+  transition: transform 0.15s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.15s ease;
+}
+
+.timeline-slider::-webkit-slider-thumb:hover {
+  transform: scale(1.25);
+  box-shadow: 0 0 18px rgba(16, 185, 129, 1), 0 4px 10px rgba(0, 0, 0, 0.4);
+}
+
+.timeline-slider::-webkit-slider-thumb:active {
+  cursor: grabbing;
+  transform: scale(1.35);
+  background: #facc15;
+  border-color: #ca8a04;
+}
+
+.timeline-slider::-moz-range-thumb {
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  background: #ffffff;
+  border: 3px solid #10b981;
+  box-shadow: 0 0 12px rgba(16, 185, 129, 0.8), 0 2px 6px rgba(0, 0, 0, 0.3);
+  cursor: grab;
+  transition: transform 0.15s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+@keyframes flame-pulse {
+  0%, 100% {
+    box-shadow: 0 0 15px rgba(239, 68, 68, 0.8), 0 0 30px rgba(249, 115, 22, 0.4);
+    border-color: rgba(254, 240, 138, 1);
+  }
+  50% {
+    box-shadow: 0 0 25px rgba(239, 68, 68, 1), 0 0 50px rgba(249, 115, 22, 0.7);
+    border-color: rgba(255, 255, 255, 1);
+  }
+}
+
+.flame-active {
+  animation: flame-pulse 1.4s infinite ease-in-out;
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="SANTA_LUCIA_TALHAO_1016_ID_160" id="SANTA_LUCIA_TALHAO_1016_ID_160">
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="ACIONISTA" type="string"></SimpleField>
+	<SimpleField name="CODE" type="string"></SimpleField>
+</Schema>
+<Folder><name>SANTA_LUCIA_TALHAO_1016_ID_160</name>
+  <Placemark id="SANTA_LUCIA_TALHAO_1016_ID_160.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SANTA_LUCIA_TALHAO_1016_ID_160">
+		<SimpleData name="ID">160</SimpleData>
+		<SimpleData name="AREA_TOTAL">10.14</SimpleData>
+		<SimpleData name="FAZ_NOME">SANTA LUCIA</SimpleData>
+		<SimpleData name="TALHAO">1016</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="ACIONISTA">ISABEL TENÓRIO</SimpleData>
+		<SimpleData name="CODE"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.4277290758124,-9.72618318731311,0 -36.4280510655028,-9.72713814141765,0 -36.428287694443,-9.72777009449851,0 -36.4284883462901,-9.72835941947351,0 -36.4286682089025,-9.72878930326326,0 -36.4288267771856,-9.72912774466595,0 -36.4306105685233,-9.72765875188823,0 -36.4305853053055,-9.72752212350748,0 -36.4299638255825,-9.72486934718252,0 -36.4299182665465,-9.72468572533901,0 -36.4298147455586,-9.72473171479241,0 -36.4294862512674,-9.72486628800182,0 -36.4292321161426,-9.72494332839009,0 -36.4288188583193,-9.72504252171415,0 -36.428582283558,-9.72508897806763,0 -36.4279213939346,-9.72524692314076,0 -36.4277094805145,-9.72528351125016,0 -36.4274217142008,-9.72531731265654,0 -36.4275900343002,-9.72581422880353,0 -36.4277290758124,-9.72618318731311,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

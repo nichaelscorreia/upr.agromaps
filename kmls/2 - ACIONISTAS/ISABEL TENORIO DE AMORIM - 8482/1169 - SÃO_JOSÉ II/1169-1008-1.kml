@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="SÃO_JOSÉ_TALHAO_1008_ID_220" id="SÃO_JOSÉ_TALHAO_1008_ID_220">
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="ACIONISTA" type="string"></SimpleField>
+	<SimpleField name="CODE" type="string"></SimpleField>
+</Schema>
+<Folder><name>SÃO_JOSÉ_TALHAO_1008_ID_220</name>
+  <Placemark id="SÃO_JOSÉ_TALHAO_1008_ID_220.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SÃO_JOSÉ_TALHAO_1008_ID_220">
+		<SimpleData name="ID">220</SimpleData>
+		<SimpleData name="AREA_TOTAL">15.71</SimpleData>
+		<SimpleData name="FAZ_NOME">SÃO JOSÉ</SimpleData>
+		<SimpleData name="TALHAO">1008</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="ACIONISTA">ISABEL TENÓRIO</SimpleData>
+		<SimpleData name="CODE"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.261237654489,-9.81191370299584,0 -36.2620316392111,-9.81247163827365,0 -36.2628207664043,-9.8130557997238,0 -36.2640677639332,-9.81164240077378,0 -36.2654582089331,-9.81008071660722,0 -36.2661979467108,-9.80923418827398,0 -36.266936976433,-9.80841379799622,0 -36.2665565080997,-9.80765995716295,0 -36.2660559942108,-9.80792220327403,0 -36.2621686928223,-9.81001478910707,0 -36.2617643758778,-9.81023494994038,0 -36.2611074443571,-9.81059494676125,0 -36.261303686133,-9.81091801154139,0 -36.2604576154784,-9.81138364567119,0 -36.261237654489,-9.81191370299584,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

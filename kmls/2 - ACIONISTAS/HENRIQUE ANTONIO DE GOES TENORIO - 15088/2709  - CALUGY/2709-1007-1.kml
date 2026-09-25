@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="CALUGY_TALHAO_1007_ID_140" id="CALUGY_TALHAO_1007_ID_140">
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="ACIONISTA" type="string"></SimpleField>
+	<SimpleField name="CODE" type="string"></SimpleField>
+</Schema>
+<Folder><name>CALUGY_TALHAO_1007_ID_140</name>
+  <Placemark id="CALUGY_TALHAO_1007_ID_140.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#CALUGY_TALHAO_1007_ID_140">
+		<SimpleData name="ID">140</SimpleData>
+		<SimpleData name="AREA_TOTAL">17.87</SimpleData>
+		<SimpleData name="FAZENDA">2740</SimpleData>
+		<SimpleData name="FAZ_NOME">CALUGY</SimpleData>
+		<SimpleData name="TALHAO">1007</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="ACIONISTA">HENRIQUE TENÓRIO</SimpleData>
+		<SimpleData name="CODE"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.3573165685044,-9.73333647436358,0 -36.3572132646501,-9.73473328492496,0 -36.3571678511677,-9.73521358749827,0 -36.3571577857402,-9.73528691748395,0 -36.3582670867659,-9.73542607622664,0 -36.3594304221625,-9.73556644875942,0 -36.3623908842307,-9.73590655863681,0 -36.3629849677386,-9.73599182735218,0 -36.3629879000446,-9.73596039689199,0 -36.362994135447,-9.7358499655075,0 -36.3629909988431,-9.7357186420032,0 -36.3629836970369,-9.73558148739428,0 -36.3629782481065,-9.7354517742145,0 -36.3629682620092,-9.73531383393921,0 -36.3629586834187,-9.73516316758061,0 -36.3629483163712,-9.73500310501238,0 -36.3629374378379,-9.73482415510827,0 -36.3629235178078,-9.73462592912444,0 -36.3629114374973,-9.73441903686384,0 -36.3629002809427,-9.73423313975742,0 -36.3628875919947,-9.73405521829129,0 -36.3628798847215,-9.73386489663156,0 -36.3628727874435,-9.73370756343824,0 -36.3574071664784,-9.73239062051044,0 -36.3574043650717,-9.73243105743189,0 -36.3573165685044,-9.73333647436358,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

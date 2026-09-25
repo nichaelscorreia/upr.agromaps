@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="SÍTIO_IMBIRA_TALHAO_1002_ID_1" id="SÍTIO_IMBIRA_TALHAO_1002_ID_1">
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="AREA_TOTAL" type="float"></SimpleField>
+	<SimpleField name="FAZENDA" type="float"></SimpleField>
+	<SimpleField name="FAZ_NOME" type="string"></SimpleField>
+	<SimpleField name="TALHAO" type="float"></SimpleField>
+	<SimpleField name="ZONA" type="float"></SimpleField>
+	<SimpleField name="ACIONISTA" type="string"></SimpleField>
+	<SimpleField name="CODE" type="string"></SimpleField>
+</Schema>
+<Folder><name>SÍTIO_IMBIRA_TALHAO_1002_ID_1</name>
+  <Placemark id="SÍTIO_IMBIRA_TALHAO_1002_ID_1.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#SÍTIO_IMBIRA_TALHAO_1002_ID_1">
+		<SimpleData name="ID">1</SimpleData>
+		<SimpleData name="AREA_TOTAL">2.29</SimpleData>
+		<SimpleData name="FAZ_NOME">SÍTIO IMBIRA</SimpleData>
+		<SimpleData name="TALHAO">1002</SimpleData>
+		<SimpleData name="ZONA">1</SimpleData>
+		<SimpleData name="ACIONISTA">ISABEL TENÓRIO</SimpleData>
+		<SimpleData name="CODE"></SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-36.2750862250079,-9.81798117985407,0 -36.2753181111762,-9.81775239692949,0 -36.275288346225,-9.8176626704489,0 -36.2751664277573,-9.81749783989651,0 -36.2750260056159,-9.81726479993565,0 -36.2748609944792,-9.816930731745,0 -36.2744457613572,-9.81611570554981,0 -36.2742155821587,-9.81567019947282,0 -36.2740754087493,-9.81540691240311,0 -36.273389627725,-9.81411076450735,0 -36.2724197581401,-9.81228044994276,0 -36.2723571023544,-9.81232783969247,0 -36.2722918845398,-9.81237772954609,0 -36.272216294839,-9.81245274337943,0 -36.2721986809949,-9.81246993170065,0 -36.2738881264596,-9.81573688403983,0 -36.2750862250079,-9.81798117985407,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
