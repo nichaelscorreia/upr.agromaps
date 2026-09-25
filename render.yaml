@@ -1,0 +1,29 @@
+services:
+  # Backend API
+  - type: web
+    name: agromaps-api
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:app
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.10.0
+
+  # Frontend Web App
+  - type: web
+    name: agromaps-web
+    env: static
+    buildCommand: npm install && npm run build
+    staticPublishPath: ./dist
+    envVars:
+      - key: VITE_API_URL
+        fromService:
+          type: web
+          name: agromaps-api
+          envVarKey: RENDER_EXTERNAL_URL
+          # Note: Em produção real, você precisará atualizar o VITE_API_URL no dashboard
+          # do Render para adicionar o /api no final (ex: https://agromaps-api.onrender.com/api)
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html

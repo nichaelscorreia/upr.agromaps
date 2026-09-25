@@ -4,4 +4,4 @@ google-auth==2.23.3
 google-auth-oauthlib==1.1.0
 google-auth-httplib2==0.1.1
 google-api-python-client==2.103.0
-PyJWT==2.8.0
+PyJWT==2.8.0gunicorn==21.2.0

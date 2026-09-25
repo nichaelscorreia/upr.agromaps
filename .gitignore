@@ -23,3 +23,14 @@ dist-ssr
 *.sln
 *.sw?
 .env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Data files (Optional: se você quiser versionar o banco de dados inicial, remova estas linhas)
+agromaps_*.json
